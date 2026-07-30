@@ -1,7 +1,6 @@
-# BFLpkg_Support
+# Reproducible Materials: BFL for VA data
 
-Supporting materials for [**Bayesian Federated Cause-of-Death Classification and Quantification Under Distribution Shift
-** by Yu Zhu, Jason Teng, and Zehang Richard Li](https://arxiv.org/abs/2505.02257).
+Supporting materials for [Bayesian Federated Cause-of-Death Classification and Quantification Under Distribution Shift](https://arxiv.org/abs/2505.02257) by Yu Zhu, Jason Teng, and Zehang Richard Li.
 
 This repository includes a standalone reproducible example on real PHMRC data, and the scripts to produce all figures in the paper.
 
