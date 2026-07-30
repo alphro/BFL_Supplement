@@ -1,4 +1,4 @@
-# BFLpkg_Support
+# Reproducible Materials: BFL for VA data
 
 Supporting materials for [Bayesian Federated Cause-of-Death Classification and Quantification Under Distribution Shift](https://arxiv.org/abs/2505.02257) by Yu Zhu, Jason Teng, and Zehang Richard Li.
 
