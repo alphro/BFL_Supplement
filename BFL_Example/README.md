@@ -4,10 +4,10 @@ Runs the **BFL** package on the real **PHMRC** verbal-autopsy data, with **AP**
 as the target site and the other five PHMRC sites (Mexico, Bohol, Dar, Pemba, UP)
 as sources. Each source fits a local LCVA model and shares only its summary; BFL
 aggregates them onto AP. Reproduces the paper's two LCVA baselines
-(**local-self**, **local-avg**) and BFL variants (**base**, **domain**,
-**partial**, **mix**) across all three within-target label-shift cases --- **no
+(**local-self**, **local-avg**) and BFL variants (**BFL-base**, **BFL-domain**,
+**BFL-partial**, **BFL-mix**) across all three within-target label-shift cases --- **no
 shift** (20% of AP labeled), **mild**, and **severe** --- then shows the
-package's S3 methods (`print`, `summary`, `plot`). `base` uses no target labels,
+package's S3 methods (`print`, `summary`, `plot`). `BFL-base` uses no target labels,
 so it is shift-invariant and only run in the no-shift case.
 
 ## Files (self-contained)
@@ -56,11 +56,11 @@ predict draws further or raise the limit with `mem.maxVSize()`.
    Beta(0.2, 0.2) unlabeled fractions).
 2. Fit each source's local LCVA model and score it on the AP rows -> `posterior_phi`.
 3. Run the paper variants through the package:
-   - **base** --- sources only, no target labels (no-shift only).
-   - **domain** --- sources + a target self-model on the unlabeled rows; the
+   - **BFL-base** --- sources only, no target labels (no-shift only).
+   - **BFL-domain** --- sources + a target self-model on the unlabeled rows; the
      labeled truth drives the CSMF correction (`Y_add`).
-   - **partial** --- observed labels fed into the model directly.
-   - **mix** --- labeled rows split per cause between the self-model and the model.
+   - **BFL-partial** --- observed labels fed into the model directly.
+   - **BFL-mix** --- labeled rows split per cause between the self-model and the model.
    The shift cases flip `label_shift = TRUE` and score the unlabeled subset via
    `eval_idx`; the input builders handle the severe self-model placement.
 4. Two LCVA **baselines** (`local_self`, `local_avg`) are reported alongside, as
