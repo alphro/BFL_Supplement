@@ -1,0 +1,347 @@
+---
+title: "BFL on PHMRC: reproducing the AP results across three label-shift cases"
+author: "Jason Teng, Yu Zhu, Zehang Richard Li"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    latex_engine: xelatex
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", message = FALSE, warning = FALSE)
+```
+
+This example runs the paper's BFL variants on the real **PHMRC** verbal-autopsy
+data, with **AP** (Andhra Pradesh) as the target and the other five sites as
+sources, across the three within-target label-shift settings from the paper:
+
+- **Case I --- no shift** (20% of AP labeled): baselines + **base**, **domain**, **partial**, **mix**.
+- **Case II --- mild shift**: baselines + **domain**, **partial**, **mix**.
+- **Case III --- severe shift**: baselines + **domain**, **partial**, **mix**.
+
+`base` uses no target labels, so it is shift-invariant and only run in Case I.
+The point is to show how each variant is a single **`run_BFL()`** call followed
+by **`score_BFL()`** --- the only things that change are the arguments you pass.
+Notice that the shift cases flip **`label_shift = TRUE`** and score on the
+unlabeled subset via **`eval_idx`**; everything else is the same call. The LCVA
+fitting and summary assembly live in `helpers.R`. Requires `LCVA` and `BFL`; the
+PHMRC data is bundled, so run from this folder.
+
+```{r libs}
+library(LCVA)
+library(BFL)
+source("helpers.R")   # LCVA + PHMRC glue + per-variant input builders + baselines
+```
+
+The two **baselines** (`local_self`, `local_avg`) are LCVA models that do *not*
+use the BFL package; they are shown for comparison, as in the paper. Each
+`inputs_*(ctx)` assembles that variant's `local_summaries` (and `X_target`,
+`Y_target`, `Y_add`) from the LCVA phis; the package calls are written out below.
+
+# Case I: no within-target label shift
+
+Load AP and the five sources, fit each source's local LCVA model, and split AP
+into 20% labeled / 80% unlabeled. Notice that this step fitting multiple LCVA models is the most time-consuming part of the example. This step can take 20 minutes or more.
+
+```{r prep1}
+ctx1 <- prepare_ap(target  = "AP",
+                   sources = c("Mexico", "Bohol", "Dar", "Pemba", "UP"),
+                   seed = 1, shift = "no_shift")
+
+c(N = length(ctx1$Y_new), labeled = length(ctx1$labeled),
+  unlabeled = length(ctx1$missing), sources = length(ctx1$src_sites))
+```
+
+## Baselines: local-self and local-avg
+
+Here we consider two simple baseline cases:
+- *local-self*: train the model on the labeled subset of AP data only, and predict on the unlabeled AP data. 
+- *local-avg*: train the model on each of the five sites separately, and predict on the unlabeled AP data. Then average the prediction performance.
+
+```{r base1}
+b1_self <- local_self(ctx1)
+b1_avg  <- local_avg(ctx1)
+round(rbind(local_self = b1_self, local_avg = b1_avg), 4)
+```
+
+## BFL-base: sources only, no target labels
+
+In the *base* case, we use the source-domain fitted model as input to BFL, and ignore the labeled data in the target site AP.
+
+
+```{r bfl-base}
+inp <- inputs_base(ctx1)
+fit_base <- run_BFL(inp$local_summaries, X_target = inp$X_target,
+                    Y_target = inp$Y_target, label_shift = ctx1$label_shift,
+                    sampler = "gibbs")
+sc_base  <- score_BFL(fit_base, Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+c(top1 = sc_base$top1_acc, top1bal = sc_base$balanced_acc, csmf = sc_base$csmf_acc)
+```
+
+## BFL-domain: labels fed into a candidate model
+
+In the *BFL-domain* case, we use the fitted models based on each source domain and the local labeled data in AP, as candidate models for BFL. That is, the labeled rows train a self-model (added to `local_summaries`).
+
+```{r bfl-domain}
+inp <- inputs_domain(ctx1)
+fit_dom <- run_BFL(inp$local_summaries, X_target = inp$X_target,
+                   Y_target = inp$Y_target, Y_add = inp$Y_add,
+                   label_shift = ctx1$label_shift, sampler = "gibbs")
+sc_dom  <- score_BFL(fit_dom, Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+c(top1 = sc_dom$top1_acc, top1bal = sc_dom$balanced_acc, csmf = sc_dom$csmf_acc)
+```
+
+## BFL-partial: labels fed into the BFL model
+
+In the *BFL-domain* case, we use the fitted models based on each source domain as candidate models for BFL. In addition, we treat the observed labels as partially known labels in fitting the BFL step. They go straight into `Y_target` (`NA` on the unlabeled rows).
+
+```{r bfl-partial}
+inp <- inputs_partial(ctx1)
+fit_par <- run_BFL(inp$local_summaries, X_target = inp$X_target,
+                   Y_target = inp$Y_target, label_shift = ctx1$label_shift,
+                   sampler = "gibbs")
+sc_par  <- score_BFL(fit_par, Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+c(top1 = sc_par$top1_acc, top1bal = sc_par$balanced_acc, csmf = sc_par$csmf_acc)
+```
+
+## BFL-mix: a split of both
+
+Half the labeled rows (per cause) train the self-model; the other half enter as
+partial labels. Both `Y_target` and `Y_add` are supplied.
+
+```{r bfl-mix}
+inp <- inputs_mix(ctx1)
+fit_mix <- run_BFL(inp$local_summaries, X_target = inp$X_target,
+                   Y_target = inp$Y_target, Y_add = inp$Y_add,
+                   label_shift = ctx1$label_shift, sampler = "gibbs")
+sc_mix  <- score_BFL(fit_mix, Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+c(top1 = sc_mix$top1_acc, top1bal = sc_mix$balanced_acc, csmf = sc_mix$csmf_acc)
+```
+
+## Accuracy across methods (Case I)
+
+```{r table1}
+round(rbind(
+  local_self = b1_self,
+  local_avg  = b1_avg,
+  base    = c(top1 = sc_base$top1_acc, top1bal = sc_base$balanced_acc, csmf = sc_base$csmf_acc),
+  domain  = c(top1 = sc_dom$top1_acc,  top1bal = sc_dom$balanced_acc,  csmf = sc_dom$csmf_acc),
+  partial = c(top1 = sc_par$top1_acc,  top1bal = sc_par$balanced_acc,  csmf = sc_par$csmf_acc),
+  mix     = c(top1 = sc_mix$top1_acc,  top1bal = sc_mix$balanced_acc,  csmf = sc_mix$csmf_acc)
+), 4)
+```
+
+## Inspecting a fited object
+
+Every `run_BFL()` fit has class `BFL` and every `score_BFL()` result has class
+`BFL_score`, each with `print` / `summary` / `plot`. Shown here for `domain`.
+
+```{r s3-fit-print}
+fit_dom
+```
+
+```{r s3-fit-summary}
+summary(fit_dom)
+```
+
+```{r s3-fit-plot, fig.width = 7, fig.height = 4}
+plot(fit_dom)
+```
+
+```{r s3-score}
+sc_dom
+summary(sc_dom)
+```
+
+```{r s3-score-plot, fig.width = 7, fig.height = 4}
+plot(sc_dom)
+```
+
+```{r cleanup1, include = FALSE}
+# Free Case I before Case II. Keep fit_base + the AP truth vector for the
+# "Additional figures" (figure 8 & 10) section at the end (base, no shift).
+ap_truth <- ctx1$Y_truth_origin
+rm(ctx1, fit_dom, fit_par, fit_mix, inp); gc(FALSE)
+```
+
+# Case II: mild within-target label shift
+
+`prepare_ap(shift = "mild")` builds a labeled/unlabeled split with a *mild*
+prevalence shift between the two halves (a stacked frame drawn from independent
+Dirichlet prevalences). The BFL calls are identical to Case I except
+`label_shift = TRUE`, and scoring is on the unlabeled subset (`eval_idx`); `base`
+is omitted (it is shift-invariant).
+
+```{r prep2}
+ctx2 <- prepare_ap(target  = "AP",
+                   sources = c("Mexico", "Bohol", "Dar", "Pemba", "UP"),
+                   seed = 1, shift = "mild")
+```
+
+## Baselines
+
+```{r base2}
+b2_self <- local_self(ctx2)
+b2_avg  <- local_avg(ctx2)
+round(rbind(local_self = b2_self, local_avg = b2_avg), 4)
+```
+
+## BFL fits (domain, partial, mix)
+
+```{r bfl2}
+inp    <- inputs_domain(ctx2)
+sc_dom2 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target, Y_add = inp$Y_add,
+                             label_shift = ctx2$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+
+inp    <- inputs_partial(ctx2)
+sc_par2 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target,
+                             label_shift = ctx2$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+
+inp    <- inputs_mix(ctx2)
+sc_mix2 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target, Y_add = inp$Y_add,
+                             label_shift = ctx2$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+```
+
+## Accuracy across methods (Case II)
+
+```{r table2}
+round(rbind(
+  local_self = b2_self,
+  local_avg  = b2_avg,
+  domain  = c(top1 = sc_dom2$top1_acc, top1bal = sc_dom2$balanced_acc, csmf = sc_dom2$csmf_acc),
+  partial = c(top1 = sc_par2$top1_acc, top1bal = sc_par2$balanced_acc, csmf = sc_par2$csmf_acc),
+  mix     = c(top1 = sc_mix2$top1_acc, top1bal = sc_mix2$balanced_acc, csmf = sc_mix2$csmf_acc)
+), 4)
+```
+
+```{r cleanup2, include = FALSE}
+# Free Case II before Case III (same reason).
+rm(ctx2); gc(FALSE)
+```
+
+# Case III: severe within-target label shift
+
+`prepare_ap(shift = "severe")` draws a *severe* shift (per-cause Beta(0.2, 0.2)
+unlabeled fractions, so some causes are almost entirely unlabeled). The calls are
+again identical except the split, and `domain`/`mix` place the target self-model
+by its self-generated (new-space) causes --- both handled inside the input
+builders, so the `run_BFL()`/`score_BFL()` calls do not change.
+
+```{r prep3}
+ctx3 <- prepare_ap(target  = "AP",
+                   sources = c("Mexico", "Bohol", "Dar", "Pemba", "UP"),
+                   seed = 1, shift = "severe")
+```
+
+## Baselines
+
+```{r base3}
+b3_self <- local_self(ctx3)
+b3_avg  <- local_avg(ctx3)
+round(rbind(local_self = b3_self, local_avg = b3_avg), 4)
+```
+
+## BFL fits (domain, partial, mix)
+
+```{r bfl3}
+inp    <- inputs_domain(ctx3)
+sc_dom3 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target, Y_add = inp$Y_add,
+                             label_shift = ctx3$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+
+inp    <- inputs_partial(ctx3)
+sc_par3 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target,
+                             label_shift = ctx3$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+
+inp    <- inputs_mix(ctx3)
+sc_mix3 <- score_BFL(run_BFL(inp$local_summaries, X_target = inp$X_target,
+                             Y_target = inp$Y_target, Y_add = inp$Y_add,
+                             label_shift = ctx3$label_shift, sampler = "gibbs"),
+                     Y_eval = inp$Y_eval, eval_idx = inp$eval_idx)
+```
+
+## Accuracy across methods (Case III)
+
+```{r table3}
+round(rbind(
+  local_self = b3_self,
+  local_avg  = b3_avg,
+  domain  = c(top1 = sc_dom3$top1_acc, top1bal = sc_dom3$balanced_acc, csmf = sc_dom3$csmf_acc),
+  partial = c(top1 = sc_par3$top1_acc, top1bal = sc_par3$balanced_acc, csmf = sc_par3$csmf_acc),
+  mix     = c(top1 = sc_mix3$top1_acc, top1bal = sc_mix3$balanced_acc, csmf = sc_mix3$csmf_acc)
+), 4)
+```
+
+# Additional figures (BFL-base, no within-target label shift)
+
+These mirror figures 8 and 10 from the CHAMPS supplement, shown here for the
+**base** fit on AP under no shift. Both read straight off the fitted `BFL`
+object: `fit_base$pi` (posterior cause prevalence) and `fit_base$lambda`
+(posterior domain weights).
+
+```{r fig-setup, include = FALSE}
+suppressMessages(library(ggplot2))
+# origin cause code i -> the i-th global PHMRC cause name
+cause_names <- unique(read.csv("phmrc_clean.csv")$cause)
+# true AP prevalence over the whole target (origin codes)
+tp        <- table(factor(ap_truth, levels = sort(unique(ap_truth))))
+codes     <- as.integer(names(tp)); true_prev <- as.numeric(tp) / sum(tp)
+cause_ord <- cause_names[codes][order(true_prev)]      # y-axis order, rarest -> commonest
+```
+
+## Figure 8: estimated vs true prevalence
+
+Black point + 95% interval = BFL-base posterior prevalence; orange star = the
+true AP prevalence.
+
+```{r fig8-base, fig.width = 7, fig.height = 6}
+cc  <- as.character(fit_base$causes)                    # pi column order
+grab <- function(v, code) { i <- match(as.character(code), cc); if (is.na(i)) 0 else v[i] }
+pim  <- colMeans(fit_base$pi)
+plo  <- apply(fit_base$pi, 2, quantile, 0.025)
+phi  <- apply(fit_base$pi, 2, quantile, 0.975)
+d8 <- data.frame(
+  cause = factor(cause_names[codes], levels = cause_ord),
+  mean  = vapply(codes, function(x) grab(pim, x), 0),
+  lo    = vapply(codes, function(x) grab(plo, x), 0),
+  hi    = vapply(codes, function(x) grab(phi, x), 0),
+  true  = true_prev)
+ggplot(d8, aes(mean, cause)) +
+  geom_errorbarh(aes(xmin = lo, xmax = hi), height = 0.2) +
+  geom_point(size = 2.4) +
+  geom_point(aes(x = true), shape = 8, colour = "orange", size = 2.4, stroke = 1.1) +
+  labs(x = "Prevalence", y = NULL,
+       title = sprintf("BFL-base: estimated vs true prevalence (AP, no shift) --- CSMF %.3f",
+                       sc_base$csmf_acc)) +
+  theme_bw(base_size = 12)
+```
+
+## Figure 10: domain weights (lambda)
+
+Posterior-mean weight BFL-base places on each source for each cause. This is just
+the package generic `plot(fit, type = "lambda")` --- we relabel the numeric cause
+codes to PHMRC cause names and pass the prevalence order so the rows match
+Figure 8 (most prevalent on top).
+
+```{r fig10-base, fig.width = 7, fig.height = 6}
+f <- fit_base
+f$causes <- cause_names[as.integer(f$causes)]          # origin code -> PHMRC cause name
+plot(f, type = "lambda", causes = rev(cause_ord),      # rev(): most prevalent on top
+     title = "BFL-base: posterior-mean domain weights (AP, no shift)")
+```
+
+# Session info
+
+```{r session}
+sessionInfo()
+```

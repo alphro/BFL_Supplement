@@ -1,0 +1,113 @@
+"batch","variant","cause","domain","lambda"
+"batch8","BFL_base","congenital malformation","KE",0.0470194715819935
+"batch8","BFL_base","infection","KE",0.157217084704697
+"batch8","BFL_base","IPRE","KE",0.480953911587525
+"batch8","BFL_base","other","KE",0.318621399666881
+"batch8","BFL_base","pneumonia","KE",0.828988837714602
+"batch8","BFL_base","prematurity","KE",0.275855118009204
+"batch8","BFL_base","sepsis","KE",0.640830109184754
+"batch8","BFL_base","undetermined","KE",0.296775878323554
+"batch8","BFL_base","congenital malformation","MZ",0.0742453017881997
+"batch8","BFL_base","infection","MZ",0.648479204907389
+"batch8","BFL_base","IPRE","MZ",0.40459525484283
+"batch8","BFL_base","other","MZ",0.323581764250881
+"batch8","BFL_base","pneumonia","MZ",0.100361203339924
+"batch8","BFL_base","prematurity","MZ",0.0270363073234807
+"batch8","BFL_base","sepsis","MZ",0.145651995643858
+"batch8","BFL_base","undetermined","MZ",0.301036714460006
+"batch8","BFL_base","congenital malformation","ZA",0.878735226629807
+"batch8","BFL_base","infection","ZA",0.194303710387914
+"batch8","BFL_base","IPRE","ZA",0.114450833569646
+"batch8","BFL_base","other","ZA",0.357796836082237
+"batch8","BFL_base","pneumonia","ZA",0.0706499589454739
+"batch8","BFL_base","prematurity","ZA",0.697108574667315
+"batch8","BFL_base","sepsis","ZA",0.213517895171388
+"batch8","BFL_base","undetermined","ZA",0.402187407216441
+"batch8","BFL_partial","congenital malformation","KE",0.0441090312603625
+"batch8","BFL_partial","infection","KE",0.0835256717901656
+"batch8","BFL_partial","IPRE","KE",0.486758994665523
+"batch8","BFL_partial","other","KE",0.420600721006265
+"batch8","BFL_partial","pneumonia","KE",0.813272965254267
+"batch8","BFL_partial","prematurity","KE",0.254922817539771
+"batch8","BFL_partial","sepsis","KE",0.396768853006429
+"batch8","BFL_partial","undetermined","KE",0.231472542130381
+"batch8","BFL_partial","congenital malformation","MZ",0.082972415167992
+"batch8","BFL_partial","infection","MZ",0.726678475227913
+"batch8","BFL_partial","IPRE","MZ",0.404389375514827
+"batch8","BFL_partial","other","MZ",0.0976991823385477
+"batch8","BFL_partial","pneumonia","MZ",0.106832374440005
+"batch8","BFL_partial","prematurity","MZ",0.0181900334597415
+"batch8","BFL_partial","sepsis","MZ",0.195886398871688
+"batch8","BFL_partial","undetermined","MZ",0.266072343015071
+"batch8","BFL_partial","congenital malformation","ZA",0.872918553571646
+"batch8","BFL_partial","infection","ZA",0.189795852981921
+"batch8","BFL_partial","IPRE","ZA",0.10885162981965
+"batch8","BFL_partial","other","ZA",0.481700096655187
+"batch8","BFL_partial","pneumonia","ZA",0.0798946603057282
+"batch8","BFL_partial","prematurity","ZA",0.726887149000487
+"batch8","BFL_partial","sepsis","ZA",0.407344748121883
+"batch8","BFL_partial","undetermined","ZA",0.502455114854548
+"batch8","BFL_domain","congenital malformation","KE",0.0709704417890958
+"batch8","BFL_domain","infection","KE",0.124909909552544
+"batch8","BFL_domain","IPRE","KE",0.403873155718337
+"batch8","BFL_domain","other","KE",0.0740494102788484
+"batch8","BFL_domain","pneumonia","KE",0.573962343407843
+"batch8","BFL_domain","prematurity","KE",0.143446995218249
+"batch8","BFL_domain","sepsis","KE",0.250689042367592
+"batch8","BFL_domain","undetermined","KE",0.0889431361706943
+"batch8","BFL_domain","congenital malformation","MZ",0.105469411206274
+"batch8","BFL_domain","infection","MZ",0.369444466084067
+"batch8","BFL_domain","IPRE","MZ",0.277160137156081
+"batch8","BFL_domain","other","MZ",0.0737774403867596
+"batch8","BFL_domain","pneumonia","MZ",0.110879798246547
+"batch8","BFL_domain","prematurity","MZ",0.0166391546441298
+"batch8","BFL_domain","sepsis","MZ",0.0624872798558218
+"batch8","BFL_domain","undetermined","MZ",0.0892580709646688
+"batch8","BFL_domain","congenital malformation","ZA",0.548876550332421
+"batch8","BFL_domain","infection","ZA",0.18332435391656
+"batch8","BFL_domain","IPRE","ZA",0.0743152008756169
+"batch8","BFL_domain","other","ZA",0.0768660713648992
+"batch8","BFL_domain","pneumonia","ZA",0.0781420398083569
+"batch8","BFL_domain","prematurity","ZA",0.359457553999665
+"batch8","BFL_domain","sepsis","ZA",0.225078093563972
+"batch8","BFL_domain","undetermined","ZA",0.127398458638163
+"batch8","BFL_domain","congenital malformation","Target",0.27468359667221
+"batch8","BFL_domain","infection","Target",0.32232127044683
+"batch8","BFL_domain","IPRE","Target",0.244651506249965
+"batch8","BFL_domain","other","Target",0.775307077969493
+"batch8","BFL_domain","pneumonia","Target",0.237015818537253
+"batch8","BFL_domain","prematurity","Target",0.480456296137956
+"batch8","BFL_domain","sepsis","Target",0.461745584212615
+"batch8","BFL_domain","undetermined","Target",0.694400334226474
+"batch8","BFL_mix","congenital malformation","KE",0.0682381150391236
+"batch8","BFL_mix","infection","KE",0.111621686833067
+"batch8","BFL_mix","IPRE","KE",0.429058440245948
+"batch8","BFL_mix","other","KE",0.321809547398287
+"batch8","BFL_mix","pneumonia","KE",0.747630146682569
+"batch8","BFL_mix","prematurity","KE",0.232613996604022
+"batch8","BFL_mix","sepsis","KE",0.401559892544875
+"batch8","BFL_mix","undetermined","KE",0.227762335867372
+"batch8","BFL_mix","congenital malformation","MZ",0.098192609413235
+"batch8","BFL_mix","infection","MZ",0.641466816542474
+"batch8","BFL_mix","IPRE","MZ",0.342080502715021
+"batch8","BFL_mix","other","MZ",0.108197832716162
+"batch8","BFL_mix","pneumonia","MZ",0.10404807826439
+"batch8","BFL_mix","prematurity","MZ",0.0185729330302691
+"batch8","BFL_mix","sepsis","MZ",0.175513776123766
+"batch8","BFL_mix","undetermined","MZ",0.311016581472831
+"batch8","BFL_mix","congenital malformation","ZA",0.766302191768473
+"batch8","BFL_mix","infection","ZA",0.134485833771899
+"batch8","BFL_mix","IPRE","ZA",0.10101899455259
+"batch8","BFL_mix","other","ZA",0.421678870569872
+"batch8","BFL_mix","pneumonia","ZA",0.0743981175497783
+"batch8","BFL_mix","prematurity","ZA",0.622493462962593
+"batch8","BFL_mix","sepsis","ZA",0.295894110875772
+"batch8","BFL_mix","undetermined","ZA",0.358764037017703
+"batch8","BFL_mix","congenital malformation","Target",0.0672670837791689
+"batch8","BFL_mix","infection","Target",0.112425662852559
+"batch8","BFL_mix","IPRE","Target",0.127842062486441
+"batch8","BFL_mix","other","Target",0.148313749315679
+"batch8","BFL_mix","pneumonia","Target",0.0739236575032622
+"batch8","BFL_mix","prematurity","Target",0.126319607403116
+"batch8","BFL_mix","sepsis","Target",0.127032220455586
+"batch8","BFL_mix","undetermined","Target",0.102457045642093

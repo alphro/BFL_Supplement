@@ -1,0 +1,8 @@
+phmrc_clean.csv
+*.log
+*.tex
+*.aux
+*.toc
+*.out
+*.knit.md
+.DS_Store

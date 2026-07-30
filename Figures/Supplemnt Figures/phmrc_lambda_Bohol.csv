@@ -1,0 +1,749 @@
+"target","variant","cause","domain","lambda"
+"Bohol","BFL_base","Cirrhosis","Mexico",0.613874740616655
+"Bohol","BFL_base","Epilepsy","Mexico",0.216364533573517
+"Bohol","BFL_base","Pneumonia","Mexico",0.318454207975479
+"Bohol","BFL_base","COPD","Mexico",0.304462593310197
+"Bohol","BFL_base","Acute Myocardial Infarction","Mexico",0.0835037967526512
+"Bohol","BFL_base","Fires","Mexico",0.200977339638766
+"Bohol","BFL_base","Renal Failure","Mexico",0.0287695626377134
+"Bohol","BFL_base","AIDS","Mexico",0.0946785940177559
+"Bohol","BFL_base","Lung Cancer","Mexico",0.805648596055928
+"Bohol","BFL_base","Maternal","Mexico",0.0915898329669663
+"Bohol","BFL_base","Drowning","Mexico",0
+"Bohol","BFL_base","Other Cardiovascular Diseases","Mexico",0.355310051490019
+"Bohol","BFL_base","Other Non-communicable Diseases","Mexico",0.187077078279138
+"Bohol","BFL_base","Falls","Mexico",0.539841243839319
+"Bohol","BFL_base","Stroke","Mexico",0.113864409043364
+"Bohol","BFL_base","Road Traffic","Mexico",0.0822825625966789
+"Bohol","BFL_base","Bite of Venomous Animal","Mexico",0.320924855016514
+"Bohol","BFL_base","Diabetes","Mexico",0.264157559440248
+"Bohol","BFL_base","Other Infectious Diseases","Mexico",0.19319860665063
+"Bohol","BFL_base","TB","Mexico",0.0266252861066097
+"Bohol","BFL_base","Suicide","Mexico",0.0658623558281928
+"Bohol","BFL_base","Other Injuries","Mexico",0.178246215953156
+"Bohol","BFL_base","Cervical Cancer","Mexico",0.260019089812552
+"Bohol","BFL_base","Malaria","Mexico",0
+"Bohol","BFL_base","Asthma","Mexico",0.198775507607719
+"Bohol","BFL_base","Diarrhea/Dysentery","Mexico",0.0974150762787008
+"Bohol","BFL_base","Colorectal Cancer","Mexico",0.438933047061331
+"Bohol","BFL_base","Homicide","Mexico",0.711404279397743
+"Bohol","BFL_base","Breast Cancer","Mexico",0.615319685202088
+"Bohol","BFL_base","Leukemia/Lymphomas","Mexico",0.860466829605687
+"Bohol","BFL_base","Poisonings","Mexico",0.179174647707724
+"Bohol","BFL_base","Prostate Cancer","Mexico",0.332348802952646
+"Bohol","BFL_base","Esophageal Cancer","Mexico",0
+"Bohol","BFL_base","Stomach Cancer","Mexico",0.478263250860061
+"Bohol","BFL_base","Cirrhosis","AP",0.337681071548912
+"Bohol","BFL_base","Epilepsy","AP",0.356059604239427
+"Bohol","BFL_base","Pneumonia","AP",0.440589363259284
+"Bohol","BFL_base","COPD","AP",0.120360579476458
+"Bohol","BFL_base","Acute Myocardial Infarction","AP",0.906373154318816
+"Bohol","BFL_base","Fires","AP",0.246747540690643
+"Bohol","BFL_base","Renal Failure","AP",0.924717317525393
+"Bohol","BFL_base","AIDS","AP",0.792493902318852
+"Bohol","BFL_base","Lung Cancer","AP",0.0637195009452053
+"Bohol","BFL_base","Maternal","AP",0.499398631096871
+"Bohol","BFL_base","Drowning","AP",0.303448103116086
+"Bohol","BFL_base","Other Cardiovascular Diseases","AP",0.50552852793303
+"Bohol","BFL_base","Other Non-communicable Diseases","AP",0.765781958416988
+"Bohol","BFL_base","Falls","AP",0.126575277020698
+"Bohol","BFL_base","Stroke","AP",0.783494699931737
+"Bohol","BFL_base","Road Traffic","AP",0.832760862236269
+"Bohol","BFL_base","Bite of Venomous Animal","AP",0.357926060541945
+"Bohol","BFL_base","Diabetes","AP",0.669240820148699
+"Bohol","BFL_base","Other Infectious Diseases","AP",0.131979200754415
+"Bohol","BFL_base","TB","AP",0.86767731659386
+"Bohol","BFL_base","Suicide","AP",0.651648156463436
+"Bohol","BFL_base","Other Injuries","AP",0.237122910515468
+"Bohol","BFL_base","Cervical Cancer","AP",0.24799947451736
+"Bohol","BFL_base","Malaria","AP",0.248406259601803
+"Bohol","BFL_base","Asthma","AP",0.21314692738656
+"Bohol","BFL_base","Diarrhea/Dysentery","AP",0.279184302414289
+"Bohol","BFL_base","Colorectal Cancer","AP",0.283729321856551
+"Bohol","BFL_base","Homicide","AP",0.0597102197577016
+"Bohol","BFL_base","Breast Cancer","AP",0.0510700403509634
+"Bohol","BFL_base","Leukemia/Lymphomas","AP",0.0459221159418213
+"Bohol","BFL_base","Poisonings","AP",0.192294923574235
+"Bohol","BFL_base","Prostate Cancer","AP",0.330604262140278
+"Bohol","BFL_base","Esophageal Cancer","AP",0.482891184892771
+"Bohol","BFL_base","Stomach Cancer","AP",0.259200317985976
+"Bohol","BFL_base","Cirrhosis","Dar",0.0217609881204416
+"Bohol","BFL_base","Epilepsy","Dar",0.216133736185385
+"Bohol","BFL_base","Pneumonia","Dar",0.0460710853155917
+"Bohol","BFL_base","COPD","Dar",0.0227254771878918
+"Bohol","BFL_base","Acute Myocardial Infarction","Dar",0.00425265164763983
+"Bohol","BFL_base","Fires","Dar",0.186657850429311
+"Bohol","BFL_base","Renal Failure","Dar",0.00966202532057054
+"Bohol","BFL_base","AIDS","Dar",0.0677844278016882
+"Bohol","BFL_base","Lung Cancer","Dar",0.0639602794712372
+"Bohol","BFL_base","Maternal","Dar",0.126050700291356
+"Bohol","BFL_base","Drowning","Dar",0.221935197094205
+"Bohol","BFL_base","Other Cardiovascular Diseases","Dar",0.0599162345014937
+"Bohol","BFL_base","Other Non-communicable Diseases","Dar",0.00918928762556512
+"Bohol","BFL_base","Falls","Dar",0.108644431088004
+"Bohol","BFL_base","Stroke","Dar",0.0774240873505993
+"Bohol","BFL_base","Road Traffic","Dar",0.0447404494517018
+"Bohol","BFL_base","Bite of Venomous Animal","Dar",0
+"Bohol","BFL_base","Diabetes","Dar",0.0224591323122211
+"Bohol","BFL_base","Other Infectious Diseases","Dar",0.120925654910407
+"Bohol","BFL_base","TB","Dar",0.0405450274370075
+"Bohol","BFL_base","Suicide","Dar",0.0691645006864786
+"Bohol","BFL_base","Other Injuries","Dar",0.222788363323185
+"Bohol","BFL_base","Cervical Cancer","Dar",0.248663936490928
+"Bohol","BFL_base","Malaria","Dar",0.233985233324554
+"Bohol","BFL_base","Asthma","Dar",0.19533376680569
+"Bohol","BFL_base","Diarrhea/Dysentery","Dar",0.0904501587149583
+"Bohol","BFL_base","Colorectal Cancer","Dar",0.277337631082118
+"Bohol","BFL_base","Homicide","Dar",0.19186880945456
+"Bohol","BFL_base","Breast Cancer","Dar",0.283279843208727
+"Bohol","BFL_base","Leukemia/Lymphomas","Dar",0.0483981777425402
+"Bohol","BFL_base","Poisonings","Dar",0.175161915782095
+"Bohol","BFL_base","Prostate Cancer","Dar",0.337046934907076
+"Bohol","BFL_base","Esophageal Cancer","Dar",0.517108815107229
+"Bohol","BFL_base","Stomach Cancer","Dar",0.262536431153963
+"Bohol","BFL_base","Cirrhosis","Pemba",0
+"Bohol","BFL_base","Epilepsy","Pemba",0
+"Bohol","BFL_base","Pneumonia","Pemba",0.00923778758346281
+"Bohol","BFL_base","COPD","Pemba",0
+"Bohol","BFL_base","Acute Myocardial Infarction","Pemba",0
+"Bohol","BFL_base","Fires","Pemba",0.16691737851608
+"Bohol","BFL_base","Renal Failure","Pemba",0
+"Bohol","BFL_base","AIDS","Pemba",0
+"Bohol","BFL_base","Lung Cancer","Pemba",0
+"Bohol","BFL_base","Maternal","Pemba",0.0759698972087158
+"Bohol","BFL_base","Drowning","Pemba",0.234966607648278
+"Bohol","BFL_base","Other Cardiovascular Diseases","Pemba",0
+"Bohol","BFL_base","Other Non-communicable Diseases","Pemba",0.00950105113650784
+"Bohol","BFL_base","Falls","Pemba",0.113751573268535
+"Bohol","BFL_base","Stroke","Pemba",0
+"Bohol","BFL_base","Road Traffic","Pemba",0.0198924173218827
+"Bohol","BFL_base","Bite of Venomous Animal","Pemba",0
+"Bohol","BFL_base","Diabetes","Pemba",0.0221976114242254
+"Bohol","BFL_base","Other Infectious Diseases","Pemba",0.116304637247187
+"Bohol","BFL_base","TB","Pemba",0.0144945162047155
+"Bohol","BFL_base","Suicide","Pemba",0.0626394571233715
+"Bohol","BFL_base","Other Injuries","Pemba",0.180672636507472
+"Bohol","BFL_base","Cervical Cancer","Pemba",0
+"Bohol","BFL_base","Malaria","Pemba",0.229900202590428
+"Bohol","BFL_base","Asthma","Pemba",0.19691886461806
+"Bohol","BFL_base","Diarrhea/Dysentery","Pemba",0.0883707201308623
+"Bohol","BFL_base","Colorectal Cancer","Pemba",0
+"Bohol","BFL_base","Homicide","Pemba",0.0163694098315731
+"Bohol","BFL_base","Breast Cancer","Pemba",0
+"Bohol","BFL_base","Leukemia/Lymphomas","Pemba",0
+"Bohol","BFL_base","Poisonings","Pemba",0.175944301594767
+"Bohol","BFL_base","Prostate Cancer","Pemba",0
+"Bohol","BFL_base","Esophageal Cancer","Pemba",0
+"Bohol","BFL_base","Stomach Cancer","Pemba",0
+"Bohol","BFL_base","Cirrhosis","UP",0.0266831997139917
+"Bohol","BFL_base","Epilepsy","UP",0.211442126001671
+"Bohol","BFL_base","Pneumonia","UP",0.185647555866183
+"Bohol","BFL_base","COPD","UP",0.552451350025453
+"Bohol","BFL_base","Acute Myocardial Infarction","UP",0.00587039728089318
+"Bohol","BFL_base","Fires","UP",0.1986998907252
+"Bohol","BFL_base","Renal Failure","UP",0.0368510945163235
+"Bohol","BFL_base","AIDS","UP",0.0450430758617038
+"Bohol","BFL_base","Lung Cancer","UP",0.0666716235276297
+"Bohol","BFL_base","Maternal","UP",0.20699093843609
+"Bohol","BFL_base","Drowning","UP",0.239650092141431
+"Bohol","BFL_base","Other Cardiovascular Diseases","UP",0.0792451860754574
+"Bohol","BFL_base","Other Non-communicable Diseases","UP",0.0284506245418008
+"Bohol","BFL_base","Falls","UP",0.111187474783445
+"Bohol","BFL_base","Stroke","UP",0.0252168036742997
+"Bohol","BFL_base","Road Traffic","UP",0.0203237083934679
+"Bohol","BFL_base","Bite of Venomous Animal","UP",0.321149084441541
+"Bohol","BFL_base","Diabetes","UP",0.0219448766746072
+"Bohol","BFL_base","Other Infectious Diseases","UP",0.437591900437361
+"Bohol","BFL_base","TB","UP",0.0506578536578078
+"Bohol","BFL_base","Suicide","UP",0.150685529898521
+"Bohol","BFL_base","Other Injuries","UP",0.181169873700719
+"Bohol","BFL_base","Cervical Cancer","UP",0.243317499179159
+"Bohol","BFL_base","Malaria","UP",0.287708304483215
+"Bohol","BFL_base","Asthma","UP",0.19582493358197
+"Bohol","BFL_base","Diarrhea/Dysentery","UP",0.44457974246119
+"Bohol","BFL_base","Colorectal Cancer","UP",0
+"Bohol","BFL_base","Homicide","UP",0.020647281558423
+"Bohol","BFL_base","Breast Cancer","UP",0.0503304312382213
+"Bohol","BFL_base","Leukemia/Lymphomas","UP",0.0452128767099512
+"Bohol","BFL_base","Poisonings","UP",0.277424211341179
+"Bohol","BFL_base","Prostate Cancer","UP",0
+"Bohol","BFL_base","Esophageal Cancer","UP",0
+"Bohol","BFL_base","Stomach Cancer","UP",0
+"Bohol","BFL_partial","Cirrhosis","Mexico",0.631672879010448
+"Bohol","BFL_partial","Epilepsy","Mexico",0.167530791648116
+"Bohol","BFL_partial","Pneumonia","Mexico",0.291620013792117
+"Bohol","BFL_partial","COPD","Mexico",0.300343687584965
+"Bohol","BFL_partial","Acute Myocardial Infarction","Mexico",0.105180806244027
+"Bohol","BFL_partial","Fires","Mexico",0.166743475411235
+"Bohol","BFL_partial","Renal Failure","Mexico",0.0551546354064832
+"Bohol","BFL_partial","AIDS","Mexico",0.2050271590308
+"Bohol","BFL_partial","Lung Cancer","Mexico",0.859009211764252
+"Bohol","BFL_partial","Maternal","Mexico",0.105811198647377
+"Bohol","BFL_partial","Drowning","Mexico",0
+"Bohol","BFL_partial","Other Cardiovascular Diseases","Mexico",0.268096488995478
+"Bohol","BFL_partial","Other Non-communicable Diseases","Mexico",0.192771427039814
+"Bohol","BFL_partial","Falls","Mexico",0.812931980273807
+"Bohol","BFL_partial","Stroke","Mexico",0.0611891581961988
+"Bohol","BFL_partial","Road Traffic","Mexico",0.121922988154958
+"Bohol","BFL_partial","Bite of Venomous Animal","Mexico",0.231671595820986
+"Bohol","BFL_partial","Diabetes","Mexico",0.270724681126457
+"Bohol","BFL_partial","Other Infectious Diseases","Mexico",0.329695121487214
+"Bohol","BFL_partial","TB","Mexico",0.0321364657052494
+"Bohol","BFL_partial","Suicide","Mexico",0.0603884309452644
+"Bohol","BFL_partial","Other Injuries","Mexico",0.135605708760385
+"Bohol","BFL_partial","Cervical Cancer","Mexico",0.491651876128154
+"Bohol","BFL_partial","Malaria","Mexico",0
+"Bohol","BFL_partial","Asthma","Mexico",0.159966373758734
+"Bohol","BFL_partial","Diarrhea/Dysentery","Mexico",0.0523099371887558
+"Bohol","BFL_partial","Colorectal Cancer","Mexico",0.745542976038467
+"Bohol","BFL_partial","Homicide","Mexico",0.672368037739439
+"Bohol","BFL_partial","Breast Cancer","Mexico",0.606818866809485
+"Bohol","BFL_partial","Leukemia/Lymphomas","Mexico",0.859079320387653
+"Bohol","BFL_partial","Poisonings","Mexico",0.146189811409421
+"Bohol","BFL_partial","Prostate Cancer","Mexico",0.50308138885321
+"Bohol","BFL_partial","Esophageal Cancer","Mexico",0
+"Bohol","BFL_partial","Stomach Cancer","Mexico",0.562441836747183
+"Bohol","BFL_partial","Cirrhosis","AP",0.286166507010037
+"Bohol","BFL_partial","Epilepsy","AP",0.504111954386937
+"Bohol","BFL_partial","Pneumonia","AP",0.494362561990755
+"Bohol","BFL_partial","COPD","AP",0.141337907287632
+"Bohol","BFL_partial","Acute Myocardial Infarction","AP",0.879025736925923
+"Bohol","BFL_partial","Fires","AP",0.23852406806063
+"Bohol","BFL_partial","Renal Failure","AP",0.879662747296032
+"Bohol","BFL_partial","AIDS","AP",0.496679704764211
+"Bohol","BFL_partial","Lung Cancer","AP",0.0442391463147475
+"Bohol","BFL_partial","Maternal","AP",0.514893177676573
+"Bohol","BFL_partial","Drowning","AP",0.302919344428339
+"Bohol","BFL_partial","Other Cardiovascular Diseases","AP",0.523227986442968
+"Bohol","BFL_partial","Other Non-communicable Diseases","AP",0.76353881461244
+"Bohol","BFL_partial","Falls","AP",0.0965475842655209
+"Bohol","BFL_partial","Stroke","AP",0.855848543867457
+"Bohol","BFL_partial","Road Traffic","AP",0.797127560332487
+"Bohol","BFL_partial","Bite of Venomous Animal","AP",0.470248633085029
+"Bohol","BFL_partial","Diabetes","AP",0.66986594412234
+"Bohol","BFL_partial","Other Infectious Diseases","AP",0.19102558513588
+"Bohol","BFL_partial","TB","AP",0.866619660229898
+"Bohol","BFL_partial","Suicide","AP",0.636331274856559
+"Bohol","BFL_partial","Other Injuries","AP",0.360190192059474
+"Bohol","BFL_partial","Cervical Cancer","AP",0.161264700426791
+"Bohol","BFL_partial","Malaria","AP",0.253299981048403
+"Bohol","BFL_partial","Asthma","AP",0.340088279545341
+"Bohol","BFL_partial","Diarrhea/Dysentery","AP",0.615513303473641
+"Bohol","BFL_partial","Colorectal Cancer","AP",0.147824905625142
+"Bohol","BFL_partial","Homicide","AP",0.10592869746873
+"Bohol","BFL_partial","Breast Cancer","AP",0.0445245324466201
+"Bohol","BFL_partial","Leukemia/Lymphomas","AP",0.0470361253358732
+"Bohol","BFL_partial","Poisonings","AP",0.172506909397633
+"Bohol","BFL_partial","Prostate Cancer","AP",0.244258530055045
+"Bohol","BFL_partial","Esophageal Cancer","AP",0.321107886534237
+"Bohol","BFL_partial","Stomach Cancer","AP",0.217272959318013
+"Bohol","BFL_partial","Cirrhosis","Dar",0.036109180549858
+"Bohol","BFL_partial","Epilepsy","Dar",0.165969812017123
+"Bohol","BFL_partial","Pneumonia","Dar",0.0235976619417326
+"Bohol","BFL_partial","COPD","Dar",0.0337411962387677
+"Bohol","BFL_partial","Acute Myocardial Infarction","Dar",0.00841839455115344
+"Bohol","BFL_partial","Fires","Dar",0.283032944450166
+"Bohol","BFL_partial","Renal Failure","Dar",0.0150419084029659
+"Bohol","BFL_partial","AIDS","Dar",0.155486750725672
+"Bohol","BFL_partial","Lung Cancer","Dar",0.0458338347397354
+"Bohol","BFL_partial","Maternal","Dar",0.092097632355601
+"Bohol","BFL_partial","Drowning","Dar",0.168026361409009
+"Bohol","BFL_partial","Other Cardiovascular Diseases","Dar",0.0490926255213006
+"Bohol","BFL_partial","Other Non-communicable Diseases","Dar",0.0088897276913367
+"Bohol","BFL_partial","Falls","Dar",0.029702314510733
+"Bohol","BFL_partial","Stroke","Dar",0.0530113094966492
+"Bohol","BFL_partial","Road Traffic","Dar",0.0410057999842185
+"Bohol","BFL_partial","Bite of Venomous Animal","Dar",0
+"Bohol","BFL_partial","Diabetes","Dar",0.0202461115615402
+"Bohol","BFL_partial","Other Infectious Diseases","Dar",0.0496024015781431
+"Bohol","BFL_partial","TB","Dar",0.0424506929790477
+"Bohol","BFL_partial","Suicide","Dar",0.0642203377732019
+"Bohol","BFL_partial","Other Injuries","Dar",0.228811148294084
+"Bohol","BFL_partial","Cervical Cancer","Dar",0.192114957949624
+"Bohol","BFL_partial","Malaria","Dar",0.234468944079899
+"Bohol","BFL_partial","Asthma","Dar",0.175227386071513
+"Bohol","BFL_partial","Diarrhea/Dysentery","Dar",0.047599128737227
+"Bohol","BFL_partial","Colorectal Cancer","Dar",0.10663211833639
+"Bohol","BFL_partial","Homicide","Dar",0.175716785658484
+"Bohol","BFL_partial","Breast Cancer","Dar",0.305215082594176
+"Bohol","BFL_partial","Leukemia/Lymphomas","Dar",0.0496223161688625
+"Bohol","BFL_partial","Poisonings","Dar",0.169172880046631
+"Bohol","BFL_partial","Prostate Cancer","Dar",0.252660081091745
+"Bohol","BFL_partial","Esophageal Cancer","Dar",0.678892113465763
+"Bohol","BFL_partial","Stomach Cancer","Dar",0.220285203934804
+"Bohol","BFL_partial","Cirrhosis","Pemba",0
+"Bohol","BFL_partial","Epilepsy","Pemba",0
+"Bohol","BFL_partial","Pneumonia","Pemba",0.00867503660530162
+"Bohol","BFL_partial","COPD","Pemba",0
+"Bohol","BFL_partial","Acute Myocardial Infarction","Pemba",0
+"Bohol","BFL_partial","Fires","Pemba",0.13892644542926
+"Bohol","BFL_partial","Renal Failure","Pemba",0
+"Bohol","BFL_partial","AIDS","Pemba",0
+"Bohol","BFL_partial","Lung Cancer","Pemba",0
+"Bohol","BFL_partial","Maternal","Pemba",0.103498980935428
+"Bohol","BFL_partial","Drowning","Pemba",0.320635451588825
+"Bohol","BFL_partial","Other Cardiovascular Diseases","Pemba",0
+"Bohol","BFL_partial","Other Non-communicable Diseases","Pemba",0.00965422123874846
+"Bohol","BFL_partial","Falls","Pemba",0.0309621196315627
+"Bohol","BFL_partial","Stroke","Pemba",0
+"Bohol","BFL_partial","Road Traffic","Pemba",0.0193771720637606
+"Bohol","BFL_partial","Bite of Venomous Animal","Pemba",0
+"Bohol","BFL_partial","Diabetes","Pemba",0.0198524271902327
+"Bohol","BFL_partial","Other Infectious Diseases","Pemba",0.0495053848764767
+"Bohol","BFL_partial","TB","Pemba",0.017182983516059
+"Bohol","BFL_partial","Suicide","Pemba",0.0597251317287334
+"Bohol","BFL_partial","Other Injuries","Pemba",0.135033962933457
+"Bohol","BFL_partial","Cervical Cancer","Pemba",0
+"Bohol","BFL_partial","Malaria","Pemba",0.234105061399973
+"Bohol","BFL_partial","Asthma","Pemba",0.163486745101559
+"Bohol","BFL_partial","Diarrhea/Dysentery","Pemba",0.0477469905607257
+"Bohol","BFL_partial","Colorectal Cancer","Pemba",0
+"Bohol","BFL_partial","Homicide","Pemba",0.0204380060736977
+"Bohol","BFL_partial","Breast Cancer","Pemba",0
+"Bohol","BFL_partial","Leukemia/Lymphomas","Pemba",0
+"Bohol","BFL_partial","Poisonings","Pemba",0.14369006466201
+"Bohol","BFL_partial","Prostate Cancer","Pemba",0
+"Bohol","BFL_partial","Esophageal Cancer","Pemba",0
+"Bohol","BFL_partial","Stomach Cancer","Pemba",0
+"Bohol","BFL_partial","Cirrhosis","UP",0.0460514334296572
+"Bohol","BFL_partial","Epilepsy","UP",0.162387441947824
+"Bohol","BFL_partial","Pneumonia","UP",0.181744725670094
+"Bohol","BFL_partial","COPD","UP",0.524577208888636
+"Bohol","BFL_partial","Acute Myocardial Infarction","UP",0.00737506227889631
+"Bohol","BFL_partial","Fires","UP",0.172773066648708
+"Bohol","BFL_partial","Renal Failure","UP",0.0501407088945191
+"Bohol","BFL_partial","AIDS","UP",0.142806385479316
+"Bohol","BFL_partial","Lung Cancer","UP",0.050917807181265
+"Bohol","BFL_partial","Maternal","UP",0.183699010385021
+"Bohol","BFL_partial","Drowning","UP",0.208418842573827
+"Bohol","BFL_partial","Other Cardiovascular Diseases","UP",0.159582899040253
+"Bohol","BFL_partial","Other Non-communicable Diseases","UP",0.025145809417661
+"Bohol","BFL_partial","Falls","UP",0.0298560013183769
+"Bohol","BFL_partial","Stroke","UP",0.0299509884396945
+"Bohol","BFL_partial","Road Traffic","UP",0.0205664794645764
+"Bohol","BFL_partial","Bite of Venomous Animal","UP",0.298079771093985
+"Bohol","BFL_partial","Diabetes","UP",0.0193108359994308
+"Bohol","BFL_partial","Other Infectious Diseases","UP",0.380171506922287
+"Bohol","BFL_partial","TB","UP",0.0416101975697463
+"Bohol","BFL_partial","Suicide","UP",0.179334824696242
+"Bohol","BFL_partial","Other Injuries","UP",0.1403589879526
+"Bohol","BFL_partial","Cervical Cancer","UP",0.154968465495431
+"Bohol","BFL_partial","Malaria","UP",0.278126013471725
+"Bohol","BFL_partial","Asthma","UP",0.161231215522854
+"Bohol","BFL_partial","Diarrhea/Dysentery","UP",0.23683064003965
+"Bohol","BFL_partial","Colorectal Cancer","UP",0
+"Bohol","BFL_partial","Homicide","UP",0.0255484730596493
+"Bohol","BFL_partial","Breast Cancer","UP",0.0434415181497189
+"Bohol","BFL_partial","Leukemia/Lymphomas","UP",0.0442622381076109
+"Bohol","BFL_partial","Poisonings","UP",0.368440334484304
+"Bohol","BFL_partial","Prostate Cancer","UP",0
+"Bohol","BFL_partial","Esophageal Cancer","UP",0
+"Bohol","BFL_partial","Stomach Cancer","UP",0
+"Bohol","BFL_domain","Cirrhosis","Mexico",0.593191660892352
+"Bohol","BFL_domain","Epilepsy","Mexico",0.202610399331275
+"Bohol","BFL_domain","Pneumonia","Mexico",0.0314739109140121
+"Bohol","BFL_domain","COPD","Mexico",0.483319459984114
+"Bohol","BFL_domain","Acute Myocardial Infarction","Mexico",0.0147601699550345
+"Bohol","BFL_domain","Fires","Mexico",0.16503961698775
+"Bohol","BFL_domain","Renal Failure","Mexico",0.0383792762118503
+"Bohol","BFL_domain","AIDS","Mexico",0.197348551345047
+"Bohol","BFL_domain","Lung Cancer","Mexico",0.324205737026724
+"Bohol","BFL_domain","Maternal","Mexico",0.0618055979437758
+"Bohol","BFL_domain","Drowning","Mexico",0
+"Bohol","BFL_domain","Other Cardiovascular Diseases","Mexico",0.493928437525831
+"Bohol","BFL_domain","Other Non-communicable Diseases","Mexico",0.0978046503035043
+"Bohol","BFL_domain","Falls","Mexico",0.178882082446387
+"Bohol","BFL_domain","Stroke","Mexico",0.00802435285094856
+"Bohol","BFL_domain","Road Traffic","Mexico",0.0595471741444327
+"Bohol","BFL_domain","Bite of Venomous Animal","Mexico",0.24200918719374
+"Bohol","BFL_domain","Diabetes","Mexico",0.222933626396313
+"Bohol","BFL_domain","Other Infectious Diseases","Mexico",0.180907080633976
+"Bohol","BFL_domain","TB","Mexico",0.0349288661392476
+"Bohol","BFL_domain","Suicide","Mexico",0.0682367341148567
+"Bohol","BFL_domain","Other Injuries","Mexico",0.149391962073867
+"Bohol","BFL_domain","Cervical Cancer","Mexico",0.199851473997979
+"Bohol","BFL_domain","Malaria","Mexico",0
+"Bohol","BFL_domain","Asthma","Mexico",0.170136302212644
+"Bohol","BFL_domain","Diarrhea/Dysentery","Mexico",0.111845593987957
+"Bohol","BFL_domain","Colorectal Cancer","Mexico",0.285571293962435
+"Bohol","BFL_domain","Homicide","Mexico",0.650515442829655
+"Bohol","BFL_domain","Breast Cancer","Mexico",0.601324482392744
+"Bohol","BFL_domain","Leukemia/Lymphomas","Mexico",0.759987063840725
+"Bohol","BFL_domain","Poisonings","Mexico",0.15502745517824
+"Bohol","BFL_domain","Prostate Cancer","Mexico",0.251204701475473
+"Bohol","BFL_domain","Esophageal Cancer","Mexico",0
+"Bohol","BFL_domain","Stomach Cancer","Mexico",0.268527230948302
+"Bohol","BFL_domain","Cirrhosis","AP",0.222833534435863
+"Bohol","BFL_domain","Epilepsy","AP",0.206172312547613
+"Bohol","BFL_domain","Pneumonia","AP",0.0558465130682378
+"Bohol","BFL_domain","COPD","AP",0.146035022801652
+"Bohol","BFL_domain","Acute Myocardial Infarction","AP",0.705742408316244
+"Bohol","BFL_domain","Fires","AP",0.171218713271509
+"Bohol","BFL_domain","Renal Failure","AP",0.711659788817339
+"Bohol","BFL_domain","AIDS","AP",0.467459982416041
+"Bohol","BFL_domain","Lung Cancer","AP",0.169390771667849
+"Bohol","BFL_domain","Maternal","AP",0.468388848878196
+"Bohol","BFL_domain","Drowning","AP",0.24922131911968
+"Bohol","BFL_domain","Other Cardiovascular Diseases","AP",0.224252301997426
+"Bohol","BFL_domain","Other Non-communicable Diseases","AP",0.367649237486591
+"Bohol","BFL_domain","Falls","AP",0.168315292147365
+"Bohol","BFL_domain","Stroke","AP",0.128966021733396
+"Bohol","BFL_domain","Road Traffic","AP",0.80483696476172
+"Bohol","BFL_domain","Bite of Venomous Animal","AP",0.269770425781513
+"Bohol","BFL_domain","Diabetes","AP",0.618451877776656
+"Bohol","BFL_domain","Other Infectious Diseases","AP",0.16014602173322
+"Bohol","BFL_domain","TB","AP",0.827027219541196
+"Bohol","BFL_domain","Suicide","AP",0.591393096997748
+"Bohol","BFL_domain","Other Injuries","AP",0.205095124621251
+"Bohol","BFL_domain","Cervical Cancer","AP",0.20043756285538
+"Bohol","BFL_domain","Malaria","AP",0.232815453933993
+"Bohol","BFL_domain","Asthma","AP",0.165634459557793
+"Bohol","BFL_domain","Diarrhea/Dysentery","AP",0.242363964789267
+"Bohol","BFL_domain","Colorectal Cancer","AP",0.238465155188414
+"Bohol","BFL_domain","Homicide","AP",0.0742878258826313
+"Bohol","BFL_domain","Breast Cancer","AP",0.0559227196606735
+"Bohol","BFL_domain","Leukemia/Lymphomas","AP",0.0599627755673203
+"Bohol","BFL_domain","Poisonings","AP",0.158202475358874
+"Bohol","BFL_domain","Prostate Cancer","AP",0.247892225041702
+"Bohol","BFL_domain","Esophageal Cancer","AP",0.32376139933551
+"Bohol","BFL_domain","Stomach Cancer","AP",0.246177878434159
+"Bohol","BFL_domain","Cirrhosis","Dar",0.0369133180640214
+"Bohol","BFL_domain","Epilepsy","Dar",0.193255044411185
+"Bohol","BFL_domain","Pneumonia","Dar",0.0139510439028288
+"Bohol","BFL_domain","COPD","Dar",0.10365938755766
+"Bohol","BFL_domain","Acute Myocardial Infarction","Dar",0.00539265258973132
+"Bohol","BFL_domain","Fires","Dar",0.172504465938556
+"Bohol","BFL_domain","Renal Failure","Dar",0.0184372866653055
+"Bohol","BFL_domain","AIDS","Dar",0.180764366890635
+"Bohol","BFL_domain","Lung Cancer","Dar",0.167562822541506
+"Bohol","BFL_domain","Maternal","Dar",0.112516261077995
+"Bohol","BFL_domain","Drowning","Dar",0.179763795361281
+"Bohol","BFL_domain","Other Cardiovascular Diseases","Dar",0.130537552922413
+"Bohol","BFL_domain","Other Non-communicable Diseases","Dar",0.00831148936401554
+"Bohol","BFL_domain","Falls","Dar",0.156797822201145
+"Bohol","BFL_domain","Stroke","Dar",0.0296397819159127
+"Bohol","BFL_domain","Road Traffic","Dar",0.0645892109556069
+"Bohol","BFL_domain","Bite of Venomous Animal","Dar",0
+"Bohol","BFL_domain","Diabetes","Dar",0.0288274799528869
+"Bohol","BFL_domain","Other Infectious Diseases","Dar",0.141711030364384
+"Bohol","BFL_domain","TB","Dar",0.0464034013685003
+"Bohol","BFL_domain","Suicide","Dar",0.0710734392059861
+"Bohol","BFL_domain","Other Injuries","Dar",0.184293122375079
+"Bohol","BFL_domain","Cervical Cancer","Dar",0.19634338302675
+"Bohol","BFL_domain","Malaria","Dar",0.220101246992925
+"Bohol","BFL_domain","Asthma","Dar",0.167304926955164
+"Bohol","BFL_domain","Diarrhea/Dysentery","Dar",0.116531853760816
+"Bohol","BFL_domain","Colorectal Cancer","Dar",0.237034841927274
+"Bohol","BFL_domain","Homicide","Dar",0.199705038703843
+"Bohol","BFL_domain","Breast Cancer","Dar",0.214143905641753
+"Bohol","BFL_domain","Leukemia/Lymphomas","Dar",0.0613787827607638
+"Bohol","BFL_domain","Poisonings","Dar",0.149128235170114
+"Bohol","BFL_domain","Prostate Cancer","Dar",0.253158357617622
+"Bohol","BFL_domain","Esophageal Cancer","Dar",0.352012198838725
+"Bohol","BFL_domain","Stomach Cancer","Dar",0.23682540367486
+"Bohol","BFL_domain","Cirrhosis","Pemba",0
+"Bohol","BFL_domain","Epilepsy","Pemba",0
+"Bohol","BFL_domain","Pneumonia","Pemba",0.00723479200852927
+"Bohol","BFL_domain","COPD","Pemba",0
+"Bohol","BFL_domain","Acute Myocardial Infarction","Pemba",0
+"Bohol","BFL_domain","Fires","Pemba",0.15804083852634
+"Bohol","BFL_domain","Renal Failure","Pemba",0
+"Bohol","BFL_domain","AIDS","Pemba",0
+"Bohol","BFL_domain","Lung Cancer","Pemba",0
+"Bohol","BFL_domain","Maternal","Pemba",0.0710167529838069
+"Bohol","BFL_domain","Drowning","Pemba",0.193951789508465
+"Bohol","BFL_domain","Other Cardiovascular Diseases","Pemba",0
+"Bohol","BFL_domain","Other Non-communicable Diseases","Pemba",0.00855571374778218
+"Bohol","BFL_domain","Falls","Pemba",0.164803107515077
+"Bohol","BFL_domain","Stroke","Pemba",0
+"Bohol","BFL_domain","Road Traffic","Pemba",0.0232536630482271
+"Bohol","BFL_domain","Bite of Venomous Animal","Pemba",0
+"Bohol","BFL_domain","Diabetes","Pemba",0.0258822688996091
+"Bohol","BFL_domain","Other Infectious Diseases","Pemba",0.138879310434927
+"Bohol","BFL_domain","TB","Pemba",0.0268758180770845
+"Bohol","BFL_domain","Suicide","Pemba",0.0669551342386876
+"Bohol","BFL_domain","Other Injuries","Pemba",0.154003622810088
+"Bohol","BFL_domain","Cervical Cancer","Pemba",0
+"Bohol","BFL_domain","Malaria","Pemba",0.21697399722109
+"Bohol","BFL_domain","Asthma","Pemba",0.164229903257164
+"Bohol","BFL_domain","Diarrhea/Dysentery","Pemba",0.122368250376635
+"Bohol","BFL_domain","Colorectal Cancer","Pemba",0
+"Bohol","BFL_domain","Homicide","Pemba",0.0229071299633959
+"Bohol","BFL_domain","Breast Cancer","Pemba",0
+"Bohol","BFL_domain","Leukemia/Lymphomas","Pemba",0
+"Bohol","BFL_domain","Poisonings","Pemba",0.152438514527146
+"Bohol","BFL_domain","Prostate Cancer","Pemba",0
+"Bohol","BFL_domain","Esophageal Cancer","Pemba",0
+"Bohol","BFL_domain","Stomach Cancer","Pemba",0
+"Bohol","BFL_domain","Cirrhosis","UP",0.0470907408479233
+"Bohol","BFL_domain","Epilepsy","UP",0.197743096425081
+"Bohol","BFL_domain","Pneumonia","UP",0.022813484148609
+"Bohol","BFL_domain","COPD","UP",0.167867769920444
+"Bohol","BFL_domain","Acute Myocardial Infarction","UP",0.00725279815746393
+"Bohol","BFL_domain","Fires","UP",0.173407045844757
+"Bohol","BFL_domain","Renal Failure","UP",0.0737207703845061
+"Bohol","BFL_domain","AIDS","UP",0.154427099348277
+"Bohol","BFL_domain","Lung Cancer","UP",0.164509329872265
+"Bohol","BFL_domain","Maternal","UP",0.194267646952384
+"Bohol","BFL_domain","Drowning","UP",0.195216747479524
+"Bohol","BFL_domain","Other Cardiovascular Diseases","UP",0.101515673309847
+"Bohol","BFL_domain","Other Non-communicable Diseases","UP",0.0131016084930294
+"Bohol","BFL_domain","Falls","UP",0.157444341599285
+"Bohol","BFL_domain","Stroke","UP",0.00697876169349904
+"Bohol","BFL_domain","Road Traffic","UP",0.024269268114743
+"Bohol","BFL_domain","Bite of Venomous Animal","UP",0.245454667644139
+"Bohol","BFL_domain","Diabetes","UP",0.0274584521141267
+"Bohol","BFL_domain","Other Infectious Diseases","UP",0.23814154076024
+"Bohol","BFL_domain","TB","UP",0.0372816644758762
+"Bohol","BFL_domain","Suicide","UP",0.133720065423461
+"Bohol","BFL_domain","Other Injuries","UP",0.155374574843971
+"Bohol","BFL_domain","Cervical Cancer","UP",0.202113317411423
+"Bohol","BFL_domain","Malaria","UP",0.330109301851992
+"Bohol","BFL_domain","Asthma","UP",0.166095212609574
+"Bohol","BFL_domain","Diarrhea/Dysentery","UP",0.296138963335031
+"Bohol","BFL_domain","Colorectal Cancer","UP",0
+"Bohol","BFL_domain","Homicide","UP",0.029129475428426
+"Bohol","BFL_domain","Breast Cancer","UP",0.0542897710051963
+"Bohol","BFL_domain","Leukemia/Lymphomas","UP",0.0585224983881659
+"Bohol","BFL_domain","Poisonings","UP",0.232173372301602
+"Bohol","BFL_domain","Prostate Cancer","UP",0
+"Bohol","BFL_domain","Esophageal Cancer","UP",0
+"Bohol","BFL_domain","Stomach Cancer","UP",0
+"Bohol","BFL_domain","Cirrhosis","Bohol",0.0999707457598399
+"Bohol","BFL_domain","Epilepsy","Bohol",0.200219147284846
+"Bohol","BFL_domain","Pneumonia","Bohol",0.868680255957783
+"Bohol","BFL_domain","COPD","Bohol",0.0991183597361294
+"Bohol","BFL_domain","Acute Myocardial Infarction","Bohol",0.266851970981527
+"Bohol","BFL_domain","Fires","Bohol",0.159789319431088
+"Bohol","BFL_domain","Renal Failure","Bohol",0.157802877921
+"Bohol","BFL_domain","AIDS","Bohol",0
+"Bohol","BFL_domain","Lung Cancer","Bohol",0.174331338891655
+"Bohol","BFL_domain","Maternal","Bohol",0.0920048921638424
+"Bohol","BFL_domain","Drowning","Bohol",0.18184634853105
+"Bohol","BFL_domain","Other Cardiovascular Diseases","Bohol",0.0497660342444833
+"Bohol","BFL_domain","Other Non-communicable Diseases","Bohol",0.504577300605078
+"Bohol","BFL_domain","Falls","Bohol",0.173757354090741
+"Bohol","BFL_domain","Stroke","Bohol",0.826391081806244
+"Bohol","BFL_domain","Road Traffic","Bohol",0.0235037189752707
+"Bohol","BFL_domain","Bite of Venomous Animal","Bohol",0.242765719380607
+"Bohol","BFL_domain","Diabetes","Bohol",0.0764462948604081
+"Bohol","BFL_domain","Other Infectious Diseases","Bohol",0.140215016073253
+"Bohol","BFL_domain","TB","Bohol",0.0274830303980959
+"Bohol","BFL_domain","Suicide","Bohol",0.0686215300192602
+"Bohol","BFL_domain","Other Injuries","Bohol",0.151841593275743
+"Bohol","BFL_domain","Cervical Cancer","Bohol",0.201254262708468
+"Bohol","BFL_domain","Malaria","Bohol",0
+"Bohol","BFL_domain","Asthma","Bohol",0.166599195407662
+"Bohol","BFL_domain","Diarrhea/Dysentery","Bohol",0.110751373750293
+"Bohol","BFL_domain","Colorectal Cancer","Bohol",0.238928708921876
+"Bohol","BFL_domain","Homicide","Bohol",0.0234550871920482
+"Bohol","BFL_domain","Breast Cancer","Bohol",0.0743191212996324
+"Bohol","BFL_domain","Leukemia/Lymphomas","Bohol",0.060148879443025
+"Bohol","BFL_domain","Poisonings","Bohol",0.153029947464023
+"Bohol","BFL_domain","Prostate Cancer","Bohol",0.247744715865204
+"Bohol","BFL_domain","Esophageal Cancer","Bohol",0.324226401825765
+"Bohol","BFL_domain","Stomach Cancer","Bohol",0.248469486942678
+"Bohol","BFL_mix","Cirrhosis","Mexico",0.591420724158303
+"Bohol","BFL_mix","Epilepsy","Mexico",0.184066909278164
+"Bohol","BFL_mix","Pneumonia","Mexico",0.206287226256655
+"Bohol","BFL_mix","COPD","Mexico",0.42858701439305
+"Bohol","BFL_mix","Acute Myocardial Infarction","Mexico",0.0850456916444885
+"Bohol","BFL_mix","Fires","Mexico",0.166010252292188
+"Bohol","BFL_mix","Renal Failure","Mexico",0.0325170519103894
+"Bohol","BFL_mix","AIDS","Mexico",0.191472641368657
+"Bohol","BFL_mix","Lung Cancer","Mexico",0.744057626152567
+"Bohol","BFL_mix","Maternal","Mexico",0.109066218881821
+"Bohol","BFL_mix","Drowning","Mexico",0
+"Bohol","BFL_mix","Other Cardiovascular Diseases","Mexico",0.304004525026364
+"Bohol","BFL_mix","Other Non-communicable Diseases","Mexico",0.153467801640536
+"Bohol","BFL_mix","Falls","Mexico",0.631358244525798
+"Bohol","BFL_mix","Stroke","Mexico",0.0148265685921285
+"Bohol","BFL_mix","Road Traffic","Mexico",0.0979779688350715
+"Bohol","BFL_mix","Bite of Venomous Animal","Mexico",0.248832527753804
+"Bohol","BFL_mix","Diabetes","Mexico",0.224295376131257
+"Bohol","BFL_mix","Other Infectious Diseases","Mexico",0.166103162596496
+"Bohol","BFL_mix","TB","Mexico",0.0285423674866181
+"Bohol","BFL_mix","Suicide","Mexico",0.0581290532975193
+"Bohol","BFL_mix","Other Injuries","Mexico",0.150422891326156
+"Bohol","BFL_mix","Cervical Cancer","Mexico",0.293027827758682
+"Bohol","BFL_mix","Malaria","Mexico",0
+"Bohol","BFL_mix","Asthma","Mexico",0.16371681014429
+"Bohol","BFL_mix","Diarrhea/Dysentery","Mexico",0.0569485079960297
+"Bohol","BFL_mix","Colorectal Cancer","Mexico",0.627943633958397
+"Bohol","BFL_mix","Homicide","Mexico",0.690895279179298
+"Bohol","BFL_mix","Breast Cancer","Mexico",0.572060079028965
+"Bohol","BFL_mix","Leukemia/Lymphomas","Mexico",0.788282707133308
+"Bohol","BFL_mix","Poisonings","Mexico",0.156975646396272
+"Bohol","BFL_mix","Prostate Cancer","Mexico",0.25130958871494
+"Bohol","BFL_mix","Esophageal Cancer","Mexico",0
+"Bohol","BFL_mix","Stomach Cancer","Mexico",0.27735193674145
+"Bohol","BFL_mix","Cirrhosis","AP",0.310356168757451
+"Bohol","BFL_mix","Epilepsy","AP",0.279051852497767
+"Bohol","BFL_mix","Pneumonia","AP",0.298987745455267
+"Bohol","BFL_mix","COPD","AP",0.192591626364818
+"Bohol","BFL_mix","Acute Myocardial Infarction","AP",0.851632620476374
+"Bohol","BFL_mix","Fires","AP",0.165704495957515
+"Bohol","BFL_mix","Renal Failure","AP",0.880251855125083
+"Bohol","BFL_mix","AIDS","AP",0.562531938054461
+"Bohol","BFL_mix","Lung Cancer","AP",0.0594855846970481
+"Bohol","BFL_mix","Maternal","AP",0.520717384440402
+"Bohol","BFL_mix","Drowning","AP",0.249783206752924
+"Bohol","BFL_mix","Other Cardiovascular Diseases","AP",0.463315564832197
+"Bohol","BFL_mix","Other Non-communicable Diseases","AP",0.667230462142701
+"Bohol","BFL_mix","Falls","AP",0.160031203137153
+"Bohol","BFL_mix","Stroke","AP",0.307214230056053
+"Bohol","BFL_mix","Road Traffic","AP",0.790691676305233
+"Bohol","BFL_mix","Bite of Venomous Animal","AP",0.267551594434914
+"Bohol","BFL_mix","Diabetes","AP",0.657113784568692
+"Bohol","BFL_mix","Other Infectious Diseases","AP",0.159767902133498
+"Bohol","BFL_mix","TB","AP",0.867291622661324
+"Bohol","BFL_mix","Suicide","AP",0.641373810500107
+"Bohol","BFL_mix","Other Injuries","AP",0.19837533406606
+"Bohol","BFL_mix","Cervical Cancer","AP",0.164105579650813
+"Bohol","BFL_mix","Malaria","AP",0.243106166376065
+"Bohol","BFL_mix","Asthma","AP",0.171192689256825
+"Bohol","BFL_mix","Diarrhea/Dysentery","AP",0.548868745981322
+"Bohol","BFL_mix","Colorectal Cancer","AP",0.121971824063438
+"Bohol","BFL_mix","Homicide","AP",0.072694563099571
+"Bohol","BFL_mix","Breast Cancer","AP",0.0514514541961351
+"Bohol","BFL_mix","Leukemia/Lymphomas","AP",0.0542620979365939
+"Bohol","BFL_mix","Poisonings","AP",0.158993626956009
+"Bohol","BFL_mix","Prostate Cancer","AP",0.247401100133073
+"Bohol","BFL_mix","Esophageal Cancer","AP",0.330555288910072
+"Bohol","BFL_mix","Stomach Cancer","AP",0.239428034667188
+"Bohol","BFL_mix","Cirrhosis","Dar",0.0259610654230828
+"Bohol","BFL_mix","Epilepsy","Dar",0.178139347295792
+"Bohol","BFL_mix","Pneumonia","Dar",0.0263092698620112
+"Bohol","BFL_mix","COPD","Dar",0.0657258878073104
+"Bohol","BFL_mix","Acute Myocardial Infarction","Dar",0.00518445297938621
+"Bohol","BFL_mix","Fires","Dar",0.168446658528146
+"Bohol","BFL_mix","Renal Failure","Dar",0.0149409084327165
+"Bohol","BFL_mix","AIDS","Dar",0.133329296214651
+"Bohol","BFL_mix","Lung Cancer","Dar",0.0601188647506819
+"Bohol","BFL_mix","Maternal","Dar",0.103964314937125
+"Bohol","BFL_mix","Drowning","Dar",0.181696865046953
+"Bohol","BFL_mix","Other Cardiovascular Diseases","Dar",0.0647688489077659
+"Bohol","BFL_mix","Other Non-communicable Diseases","Dar",0.00974592968009104
+"Bohol","BFL_mix","Falls","Dar",0.0521552084320355
+"Bohol","BFL_mix","Stroke","Dar",0.0440461191836257
+"Bohol","BFL_mix","Road Traffic","Dar",0.051063433017706
+"Bohol","BFL_mix","Bite of Venomous Animal","Dar",0
+"Bohol","BFL_mix","Diabetes","Dar",0.0213762531761865
+"Bohol","BFL_mix","Other Infectious Diseases","Dar",0.0630824710665241
+"Bohol","BFL_mix","TB","Dar",0.0346758202051234
+"Bohol","BFL_mix","Suicide","Dar",0.0615952465739129
+"Bohol","BFL_mix","Other Injuries","Dar",0.185852308795086
+"Bohol","BFL_mix","Cervical Cancer","Dar",0.209953421690312
+"Bohol","BFL_mix","Malaria","Dar",0.237440930919507
+"Bohol","BFL_mix","Asthma","Dar",0.162504013731869
+"Bohol","BFL_mix","Diarrhea/Dysentery","Dar",0.0616861152857539
+"Bohol","BFL_mix","Colorectal Cancer","Dar",0.130888485111796
+"Bohol","BFL_mix","Homicide","Dar",0.167982024678684
+"Bohol","BFL_mix","Breast Cancer","Dar",0.276575068236838
+"Bohol","BFL_mix","Leukemia/Lymphomas","Dar",0.0549745165624753
+"Bohol","BFL_mix","Poisonings","Dar",0.155848051901874
+"Bohol","BFL_mix","Prostate Cancer","Dar",0.249680735823626
+"Bohol","BFL_mix","Esophageal Cancer","Dar",0.340394072301904
+"Bohol","BFL_mix","Stomach Cancer","Dar",0.241165927933174
+"Bohol","BFL_mix","Cirrhosis","Pemba",0
+"Bohol","BFL_mix","Epilepsy","Pemba",0
+"Bohol","BFL_mix","Pneumonia","Pemba",0.0082592616870962
+"Bohol","BFL_mix","COPD","Pemba",0
+"Bohol","BFL_mix","Acute Myocardial Infarction","Pemba",0
+"Bohol","BFL_mix","Fires","Pemba",0.157715635150119
+"Bohol","BFL_mix","Renal Failure","Pemba",0
+"Bohol","BFL_mix","AIDS","Pemba",0
+"Bohol","BFL_mix","Lung Cancer","Pemba",0
+"Bohol","BFL_mix","Maternal","Pemba",0.0595514562061732
+"Bohol","BFL_mix","Drowning","Pemba",0.193306674807256
+"Bohol","BFL_mix","Other Cardiovascular Diseases","Pemba",0
+"Bohol","BFL_mix","Other Non-communicable Diseases","Pemba",0.0104112372146619
+"Bohol","BFL_mix","Falls","Pemba",0.0552861149344885
+"Bohol","BFL_mix","Stroke","Pemba",0
+"Bohol","BFL_mix","Road Traffic","Pemba",0.0200230522196928
+"Bohol","BFL_mix","Bite of Venomous Animal","Pemba",0
+"Bohol","BFL_mix","Diabetes","Pemba",0.0215131901948589
+"Bohol","BFL_mix","Other Infectious Diseases","Pemba",0.0644048617546243
+"Bohol","BFL_mix","TB","Pemba",0.0175821807777229
+"Bohol","BFL_mix","Suicide","Pemba",0.0565237573641748
+"Bohol","BFL_mix","Other Injuries","Pemba",0.152940828144173
+"Bohol","BFL_mix","Cervical Cancer","Pemba",0
+"Bohol","BFL_mix","Malaria","Pemba",0.23262834050225
+"Bohol","BFL_mix","Asthma","Pemba",0.169148341489143
+"Bohol","BFL_mix","Diarrhea/Dysentery","Pemba",0.0621809371431144
+"Bohol","BFL_mix","Colorectal Cancer","Pemba",0
+"Bohol","BFL_mix","Homicide","Pemba",0.0206438786357188
+"Bohol","BFL_mix","Breast Cancer","Pemba",0
+"Bohol","BFL_mix","Leukemia/Lymphomas","Pemba",0
+"Bohol","BFL_mix","Poisonings","Pemba",0.154857999870905
+"Bohol","BFL_mix","Prostate Cancer","Pemba",0
+"Bohol","BFL_mix","Esophageal Cancer","Pemba",0
+"Bohol","BFL_mix","Stomach Cancer","Pemba",0
+"Bohol","BFL_mix","Cirrhosis","UP",0.0339039845057875
+"Bohol","BFL_mix","Epilepsy","UP",0.178620287427245
+"Bohol","BFL_mix","Pneumonia","UP",0.0985841696301009
+"Bohol","BFL_mix","COPD","UP",0.246673803185489
+"Bohol","BFL_mix","Acute Myocardial Infarction","UP",0.0083667181586871
+"Bohol","BFL_mix","Fires","UP",0.185800485694285
+"Bohol","BFL_mix","Renal Failure","UP",0.0456675188775435
+"Bohol","BFL_mix","AIDS","UP",0.11266612436223
+"Bohol","BFL_mix","Lung Cancer","UP",0.0752941649378171
+"Bohol","BFL_mix","Maternal","UP",0.181997369998074
+"Bohol","BFL_mix","Drowning","UP",0.197219835069191
+"Bohol","BFL_mix","Other Cardiovascular Diseases","UP",0.120627022483067
+"Bohol","BFL_mix","Other Non-communicable Diseases","UP",0.0222619057162315
+"Bohol","BFL_mix","Falls","UP",0.0519423322913244
+"Bohol","BFL_mix","Stroke","UP",0.0248046333926548
+"Bohol","BFL_mix","Road Traffic","UP",0.0205614710146762
+"Bohol","BFL_mix","Bite of Venomous Animal","UP",0.23788660385956
+"Bohol","BFL_mix","Diabetes","UP",0.0213578188896112
+"Bohol","BFL_mix","Other Infectious Diseases","UP",0.484522738158738
+"Bohol","BFL_mix","TB","UP",0.0339935982329718
+"Bohol","BFL_mix","Suicide","UP",0.126115292359642
+"Bohol","BFL_mix","Other Injuries","UP",0.157946994408247
+"Bohol","BFL_mix","Cervical Cancer","UP",0.165758123737238
+"Bohol","BFL_mix","Malaria","UP",0.286824562202178
+"Bohol","BFL_mix","Asthma","UP",0.166491986318884
+"Bohol","BFL_mix","Diarrhea/Dysentery","UP",0.213884875672601
+"Bohol","BFL_mix","Colorectal Cancer","UP",0
+"Bohol","BFL_mix","Homicide","UP",0.0266956665288899
+"Bohol","BFL_mix","Breast Cancer","UP",0.0496785480442991
+"Bohol","BFL_mix","Leukemia/Lymphomas","UP",0.0511541718176606
+"Bohol","BFL_mix","Poisonings","UP",0.215328812503175
+"Bohol","BFL_mix","Prostate Cancer","UP",0
+"Bohol","BFL_mix","Esophageal Cancer","UP",0
+"Bohol","BFL_mix","Stomach Cancer","UP",0
+"Bohol","BFL_mix","Cirrhosis","Bohol",0.0383580571553758
+"Bohol","BFL_mix","Epilepsy","Bohol",0.180121603501031
+"Bohol","BFL_mix","Pneumonia","Bohol",0.36157232710887
+"Bohol","BFL_mix","COPD","Bohol",0.0664216682493314
+"Bohol","BFL_mix","Acute Myocardial Infarction","Bohol",0.0497705167410638
+"Bohol","BFL_mix","Fires","Bohol",0.156322472377747
+"Bohol","BFL_mix","Renal Failure","Bohol",0.0266226656542674
+"Bohol","BFL_mix","AIDS","Bohol",0
+"Bohol","BFL_mix","Lung Cancer","Bohol",0.061043759461886
+"Bohol","BFL_mix","Maternal","Bohol",0.0247032555364054
+"Bohol","BFL_mix","Drowning","Bohol",0.177993418323676
+"Bohol","BFL_mix","Other Cardiovascular Diseases","Bohol",0.0472840387506055
+"Bohol","BFL_mix","Other Non-communicable Diseases","Bohol",0.136882663605778
+"Bohol","BFL_mix","Falls","Bohol",0.0492268966792004
+"Bohol","BFL_mix","Stroke","Bohol",0.609108448775538
+"Bohol","BFL_mix","Road Traffic","Bohol",0.0196823986076208
+"Bohol","BFL_mix","Bite of Venomous Animal","Bohol",0.245729273951722
+"Bohol","BFL_mix","Diabetes","Bohol",0.0543435770393939
+"Bohol","BFL_mix","Other Infectious Diseases","Bohol",0.0621188642901196
+"Bohol","BFL_mix","TB","Bohol",0.0179144106362395
+"Bohol","BFL_mix","Suicide","Bohol",0.0562628399046446
+"Bohol","BFL_mix","Other Injuries","Bohol",0.154461643260277
+"Bohol","BFL_mix","Cervical Cancer","Bohol",0.167155047162956
+"Bohol","BFL_mix","Malaria","Bohol",0
+"Bohol","BFL_mix","Asthma","Bohol",0.16694615905899
+"Bohol","BFL_mix","Diarrhea/Dysentery","Bohol",0.0564308179211792
+"Bohol","BFL_mix","Colorectal Cancer","Bohol",0.119196056866369
+"Bohol","BFL_mix","Homicide","Bohol",0.0210885878778381
+"Bohol","BFL_mix","Breast Cancer","Bohol",0.0502348504937619
+"Bohol","BFL_mix","Leukemia/Lymphomas","Bohol",0.0513265065499621
+"Bohol","BFL_mix","Poisonings","Bohol",0.157995862371764
+"Bohol","BFL_mix","Prostate Cancer","Bohol",0.251608575328361
+"Bohol","BFL_mix","Esophageal Cancer","Bohol",0.329050638788024
+"Bohol","BFL_mix","Stomach Cancer","Bohol",0.242054100658188

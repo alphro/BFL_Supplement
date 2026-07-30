@@ -1,0 +1,749 @@
+"target","variant","cause","domain","lambda"
+"Dar","BFL_base","Cirrhosis","Mexico",0.643295675252462
+"Dar","BFL_base","Epilepsy","Mexico",0.239400773288461
+"Dar","BFL_base","Pneumonia","Mexico",0.490401555335331
+"Dar","BFL_base","COPD","Mexico",0.243108303872549
+"Dar","BFL_base","Acute Myocardial Infarction","Mexico",0.501555854414614
+"Dar","BFL_base","Fires","Mexico",0.178799892439891
+"Dar","BFL_base","Renal Failure","Mexico",0.276655219411175
+"Dar","BFL_base","AIDS","Mexico",0.748647816424869
+"Dar","BFL_base","Lung Cancer","Mexico",0.591665170271883
+"Dar","BFL_base","Maternal","Mexico",0.503516462029465
+"Dar","BFL_base","Drowning","Mexico",0
+"Dar","BFL_base","Other Cardiovascular Diseases","Mexico",0.27391391239417
+"Dar","BFL_base","Other Non-communicable Diseases","Mexico",0.185587233180654
+"Dar","BFL_base","Falls","Mexico",0.258148655934521
+"Dar","BFL_base","Stroke","Mexico",0.367997572931044
+"Dar","BFL_base","Road Traffic","Mexico",0.0064686401418557
+"Dar","BFL_base","Bite of Venomous Animal","Mexico",0.24058690505235
+"Dar","BFL_base","Diabetes","Mexico",0.0932464272283693
+"Dar","BFL_base","Other Infectious Diseases","Mexico",0.0525118798651218
+"Dar","BFL_base","TB","Mexico",0.0201001440051727
+"Dar","BFL_base","Suicide","Mexico",0.0293894634892321
+"Dar","BFL_base","Other Injuries","Mexico",0.189107237558218
+"Dar","BFL_base","Cervical Cancer","Mexico",0.952313390198519
+"Dar","BFL_base","Malaria","Mexico",0
+"Dar","BFL_base","Asthma","Mexico",0.19656721404923
+"Dar","BFL_base","Diarrhea/Dysentery","Mexico",0.0651921973495345
+"Dar","BFL_base","Colorectal Cancer","Mexico",0.980473984207224
+"Dar","BFL_base","Homicide","Mexico",0.181610984613357
+"Dar","BFL_base","Breast Cancer","Mexico",0.875618874449684
+"Dar","BFL_base","Leukemia/Lymphomas","Mexico",0.308962948746688
+"Dar","BFL_base","Poisonings","Mexico",0.169714223104724
+"Dar","BFL_base","Prostate Cancer","Mexico",0.333744080635096
+"Dar","BFL_base","Esophageal Cancer","Mexico",0
+"Dar","BFL_base","Stomach Cancer","Mexico",0.499739273114158
+"Dar","BFL_base","Cirrhosis","AP",0.131451985583666
+"Dar","BFL_base","Epilepsy","AP",0.286009285793914
+"Dar","BFL_base","Pneumonia","AP",0.0348988295485588
+"Dar","BFL_base","COPD","AP",0.295708144167682
+"Dar","BFL_base","Acute Myocardial Infarction","AP",0.264041769165807
+"Dar","BFL_base","Fires","AP",0.299135058798353
+"Dar","BFL_base","Renal Failure","AP",0.326559094701298
+"Dar","BFL_base","AIDS","AP",0.244580164630566
+"Dar","BFL_base","Lung Cancer","AP",0.0998084878757651
+"Dar","BFL_base","Maternal","AP",0.00841914113244938
+"Dar","BFL_base","Drowning","AP",0.259349346597975
+"Dar","BFL_base","Other Cardiovascular Diseases","AP",0.240497066718793
+"Dar","BFL_base","Other Non-communicable Diseases","AP",0.202353978623261
+"Dar","BFL_base","Falls","AP",0.147521987904431
+"Dar","BFL_base","Stroke","AP",0.24499939005667
+"Dar","BFL_base","Road Traffic","AP",0.297337259574162
+"Dar","BFL_base","Bite of Venomous Animal","AP",0.266296409908691
+"Dar","BFL_base","Diabetes","AP",0.066939617283024
+"Dar","BFL_base","Other Infectious Diseases","AP",0.0593510577468421
+"Dar","BFL_base","TB","AP",0.760740752756443
+"Dar","BFL_base","Suicide","AP",0.853140161760512
+"Dar","BFL_base","Other Injuries","AP",0.215214284120469
+"Dar","BFL_base","Cervical Cancer","AP",0.0146378627320264
+"Dar","BFL_base","Malaria","AP",0.326440921841092
+"Dar","BFL_base","Asthma","AP",0.217094815394198
+"Dar","BFL_base","Diarrhea/Dysentery","AP",0.0890688051163836
+"Dar","BFL_base","Colorectal Cancer","AP",0.00960958880009455
+"Dar","BFL_base","Homicide","AP",0.241854582622818
+"Dar","BFL_base","Breast Cancer","AP",0.0108091951122565
+"Dar","BFL_base","Leukemia/Lymphomas","AP",0.227844757309623
+"Dar","BFL_base","Poisonings","AP",0.179697797089416
+"Dar","BFL_base","Prostate Cancer","AP",0.336277591415923
+"Dar","BFL_base","Esophageal Cancer","AP",0.503154861888165
+"Dar","BFL_base","Stomach Cancer","AP",0.248098724944333
+"Dar","BFL_base","Cirrhosis","Bohol",0.0994547744800225
+"Dar","BFL_base","Epilepsy","Bohol",0.235352792361992
+"Dar","BFL_base","Pneumonia","Bohol",0.110700870218923
+"Dar","BFL_base","COPD","Bohol",0.228112246406029
+"Dar","BFL_base","Acute Myocardial Infarction","Bohol",0.121795386141309
+"Dar","BFL_base","Fires","Bohol",0.168944512527438
+"Dar","BFL_base","Renal Failure","Bohol",0.161053368207856
+"Dar","BFL_base","AIDS","Bohol",0
+"Dar","BFL_base","Lung Cancer","Bohol",0.208186867856935
+"Dar","BFL_base","Maternal","Bohol",0.0112847382663293
+"Dar","BFL_base","Drowning","Bohol",0.00485727837606198
+"Dar","BFL_base","Other Cardiovascular Diseases","Bohol",0.209697833253274
+"Dar","BFL_base","Other Non-communicable Diseases","Bohol",0.0135249401092675
+"Dar","BFL_base","Falls","Bohol",0.143541892197322
+"Dar","BFL_base","Stroke","Bohol",0.103301531196415
+"Dar","BFL_base","Road Traffic","Bohol",0.685837443021192
+"Dar","BFL_base","Bite of Venomous Animal","Bohol",0.245277680823052
+"Dar","BFL_base","Diabetes","Bohol",0.0419624882424303
+"Dar","BFL_base","Other Infectious Diseases","Bohol",0.0738204339287063
+"Dar","BFL_base","TB","Bohol",0.0416026232912683
+"Dar","BFL_base","Suicide","Bohol",0.0298587574088205
+"Dar","BFL_base","Other Injuries","Bohol",0.194012354247248
+"Dar","BFL_base","Cervical Cancer","Bohol",0.0187885397278514
+"Dar","BFL_base","Malaria","Bohol",0
+"Dar","BFL_base","Asthma","Bohol",0.195412414833051
+"Dar","BFL_base","Diarrhea/Dysentery","Bohol",0.0605412953865004
+"Dar","BFL_base","Colorectal Cancer","Bohol",0.00991642699268185
+"Dar","BFL_base","Homicide","Bohol",0.219526239106325
+"Dar","BFL_base","Breast Cancer","Bohol",0.1003473239859
+"Dar","BFL_base","Leukemia/Lymphomas","Bohol",0.240030747536192
+"Dar","BFL_base","Poisonings","Bohol",0.178852127439783
+"Dar","BFL_base","Prostate Cancer","Bohol",0.329978327948981
+"Dar","BFL_base","Esophageal Cancer","Bohol",0.496845138111835
+"Dar","BFL_base","Stomach Cancer","Bohol",0.252162001941509
+"Dar","BFL_base","Cirrhosis","Pemba",0
+"Dar","BFL_base","Epilepsy","Pemba",0
+"Dar","BFL_base","Pneumonia","Pemba",0.327910774303492
+"Dar","BFL_base","COPD","Pemba",0
+"Dar","BFL_base","Acute Myocardial Infarction","Pemba",0
+"Dar","BFL_base","Fires","Pemba",0.169719157894205
+"Dar","BFL_base","Renal Failure","Pemba",0
+"Dar","BFL_base","AIDS","Pemba",0
+"Dar","BFL_base","Lung Cancer","Pemba",0
+"Dar","BFL_base","Maternal","Pemba",0.449234771654223
+"Dar","BFL_base","Drowning","Pemba",0.72657530882416
+"Dar","BFL_base","Other Cardiovascular Diseases","Pemba",0
+"Dar","BFL_base","Other Non-communicable Diseases","Pemba",0.592342332221446
+"Dar","BFL_base","Falls","Pemba",0.274587371661601
+"Dar","BFL_base","Stroke","Pemba",0
+"Dar","BFL_base","Road Traffic","Pemba",0.00418278172243792
+"Dar","BFL_base","Bite of Venomous Animal","Pemba",0
+"Dar","BFL_base","Diabetes","Pemba",0.762349175080123
+"Dar","BFL_base","Other Infectious Diseases","Pemba",0.0501186340592813
+"Dar","BFL_base","TB","Pemba",0.0197049610894407
+"Dar","BFL_base","Suicide","Pemba",0.0291968579083956
+"Dar","BFL_base","Other Injuries","Pemba",0.194492443645513
+"Dar","BFL_base","Cervical Cancer","Pemba",0
+"Dar","BFL_base","Malaria","Pemba",0.312121772471157
+"Dar","BFL_base","Asthma","Pemba",0.197198053145794
+"Dar","BFL_base","Diarrhea/Dysentery","Pemba",0.686750561114931
+"Dar","BFL_base","Colorectal Cancer","Pemba",0
+"Dar","BFL_base","Homicide","Pemba",0.165700489047967
+"Dar","BFL_base","Breast Cancer","Pemba",0
+"Dar","BFL_base","Leukemia/Lymphomas","Pemba",0
+"Dar","BFL_base","Poisonings","Pemba",0.176644999098581
+"Dar","BFL_base","Prostate Cancer","Pemba",0
+"Dar","BFL_base","Esophageal Cancer","Pemba",0
+"Dar","BFL_base","Stomach Cancer","Pemba",0
+"Dar","BFL_base","Cirrhosis","UP",0.125797564683849
+"Dar","BFL_base","Epilepsy","UP",0.239237148555633
+"Dar","BFL_base","Pneumonia","UP",0.0360879705936959
+"Dar","BFL_base","COPD","UP",0.233071305553741
+"Dar","BFL_base","Acute Myocardial Infarction","UP",0.11260699027827
+"Dar","BFL_base","Fires","UP",0.183401378340113
+"Dar","BFL_base","Renal Failure","UP",0.235732317679671
+"Dar","BFL_base","AIDS","UP",0.00677201894456539
+"Dar","BFL_base","Lung Cancer","UP",0.100339473995417
+"Dar","BFL_base","Maternal","UP",0.0275448869175338
+"Dar","BFL_base","Drowning","UP",0.00921806620180327
+"Dar","BFL_base","Other Cardiovascular Diseases","UP",0.275891187633763
+"Dar","BFL_base","Other Non-communicable Diseases","UP",0.00619151586537193
+"Dar","BFL_base","Falls","UP",0.176200092302125
+"Dar","BFL_base","Stroke","UP",0.283701505815871
+"Dar","BFL_base","Road Traffic","UP",0.00617387554035241
+"Dar","BFL_base","Bite of Venomous Animal","UP",0.247839004215907
+"Dar","BFL_base","Diabetes","UP",0.0355022921660536
+"Dar","BFL_base","Other Infectious Diseases","UP",0.764197994400048
+"Dar","BFL_base","TB","UP",0.157851518857676
+"Dar","BFL_base","Suicide","UP",0.0584147594330402
+"Dar","BFL_base","Other Injuries","UP",0.207173680428552
+"Dar","BFL_base","Cervical Cancer","UP",0.0142602073416033
+"Dar","BFL_base","Malaria","UP",0.361437305687752
+"Dar","BFL_base","Asthma","UP",0.193727502577727
+"Dar","BFL_base","Diarrhea/Dysentery","UP",0.0984471410326506
+"Dar","BFL_base","Colorectal Cancer","UP",0
+"Dar","BFL_base","Homicide","UP",0.191307704609532
+"Dar","BFL_base","Breast Cancer","UP",0.0132246064521586
+"Dar","BFL_base","Leukemia/Lymphomas","UP",0.223161546407496
+"Dar","BFL_base","Poisonings","UP",0.295090853267497
+"Dar","BFL_base","Prostate Cancer","UP",0
+"Dar","BFL_base","Esophageal Cancer","UP",0
+"Dar","BFL_base","Stomach Cancer","UP",0
+"Dar","BFL_partial","Cirrhosis","Mexico",0.735484183390382
+"Dar","BFL_partial","Epilepsy","Mexico",0.180835417923548
+"Dar","BFL_partial","Pneumonia","Mexico",0.405056216886927
+"Dar","BFL_partial","COPD","Mexico",0.249194821259262
+"Dar","BFL_partial","Acute Myocardial Infarction","Mexico",0.443416537488489
+"Dar","BFL_partial","Fires","Mexico",0.0760287197540997
+"Dar","BFL_partial","Renal Failure","Mexico",0.411334386585122
+"Dar","BFL_partial","AIDS","Mexico",0.684492729484247
+"Dar","BFL_partial","Lung Cancer","Mexico",0.617976516050396
+"Dar","BFL_partial","Maternal","Mexico",0.50997728450503
+"Dar","BFL_partial","Drowning","Mexico",0
+"Dar","BFL_partial","Other Cardiovascular Diseases","Mexico",0.738293137111611
+"Dar","BFL_partial","Other Non-communicable Diseases","Mexico",0.19720504938067
+"Dar","BFL_partial","Falls","Mexico",0.122589665431329
+"Dar","BFL_partial","Stroke","Mexico",0.342307858672726
+"Dar","BFL_partial","Road Traffic","Mexico",0.00801567939070691
+"Dar","BFL_partial","Bite of Venomous Animal","Mexico",0.240569758633776
+"Dar","BFL_partial","Diabetes","Mexico",0.0979231102339128
+"Dar","BFL_partial","Other Infectious Diseases","Mexico",0.0307102506832984
+"Dar","BFL_partial","TB","Mexico",0.0147539178345887
+"Dar","BFL_partial","Suicide","Mexico",0.0279139862703923
+"Dar","BFL_partial","Other Injuries","Mexico",0.128590213197649
+"Dar","BFL_partial","Cervical Cancer","Mexico",0.950201868400769
+"Dar","BFL_partial","Malaria","Mexico",0
+"Dar","BFL_partial","Asthma","Mexico",0.159100990985073
+"Dar","BFL_partial","Diarrhea/Dysentery","Mexico",0.097447807762058
+"Dar","BFL_partial","Colorectal Cancer","Mexico",0.9732839205212
+"Dar","BFL_partial","Homicide","Mexico",0.102377852724627
+"Dar","BFL_partial","Breast Cancer","Mexico",0.855042313272042
+"Dar","BFL_partial","Leukemia/Lymphomas","Mexico",0.792227465522993
+"Dar","BFL_partial","Poisonings","Mexico",0.0984509691775823
+"Dar","BFL_partial","Prostate Cancer","Mexico",0.74887473038458
+"Dar","BFL_partial","Esophageal Cancer","Mexico",0
+"Dar","BFL_partial","Stomach Cancer","Mexico",0.842927040932263
+"Dar","BFL_partial","Cirrhosis","AP",0.0895574351074049
+"Dar","BFL_partial","Epilepsy","AP",0.454537216812779
+"Dar","BFL_partial","Pneumonia","AP",0.0967607194944577
+"Dar","BFL_partial","COPD","AP",0.254774450924876
+"Dar","BFL_partial","Acute Myocardial Infarction","AP",0.361913724648834
+"Dar","BFL_partial","Fires","AP",0.759121783833969
+"Dar","BFL_partial","Renal Failure","AP",0.281034966454096
+"Dar","BFL_partial","AIDS","AP",0.308306887702209
+"Dar","BFL_partial","Lung Cancer","AP",0.083582575049402
+"Dar","BFL_partial","Maternal","AP",0.0105019126200374
+"Dar","BFL_partial","Drowning","AP",0.307355698320336
+"Dar","BFL_partial","Other Cardiovascular Diseases","AP",0.0601324683158242
+"Dar","BFL_partial","Other Non-communicable Diseases","AP",0.272728354648494
+"Dar","BFL_partial","Falls","AP",0.0803537716352852
+"Dar","BFL_partial","Stroke","AP",0.231008884580058
+"Dar","BFL_partial","Road Traffic","AP",0.325586832511747
+"Dar","BFL_partial","Bite of Venomous Animal","AP",0.270021650081053
+"Dar","BFL_partial","Diabetes","AP",0.0361407287571999
+"Dar","BFL_partial","Other Infectious Diseases","AP",0.0311447766647097
+"Dar","BFL_partial","TB","AP",0.728386622294504
+"Dar","BFL_partial","Suicide","AP",0.847408051375041
+"Dar","BFL_partial","Other Injuries","AP",0.266569339725824
+"Dar","BFL_partial","Cervical Cancer","AP",0.023103429894977
+"Dar","BFL_partial","Malaria","AP",0.551542033195866
+"Dar","BFL_partial","Asthma","AP",0.351978637701083
+"Dar","BFL_partial","Diarrhea/Dysentery","AP",0.240577849679455
+"Dar","BFL_partial","Colorectal Cancer","AP",0.013072881661209
+"Dar","BFL_partial","Homicide","AP",0.181072543864092
+"Dar","BFL_partial","Breast Cancer","AP",0.0109685207653784
+"Dar","BFL_partial","Leukemia/Lymphomas","AP",0.0574770625851818
+"Dar","BFL_partial","Poisonings","AP",0.107121215225973
+"Dar","BFL_partial","Prostate Cancer","AP",0.126908223729174
+"Dar","BFL_partial","Esophageal Cancer","AP",0.141979689562333
+"Dar","BFL_partial","Stomach Cancer","AP",0.0806589281462518
+"Dar","BFL_partial","Cirrhosis","Bohol",0.075687608978204
+"Dar","BFL_partial","Epilepsy","Bohol",0.183388071456286
+"Dar","BFL_partial","Pneumonia","Bohol",0.0826123877488415
+"Dar","BFL_partial","COPD","Bohol",0.177325623075925
+"Dar","BFL_partial","Acute Myocardial Infarction","Bohol",0.100066245301424
+"Dar","BFL_partial","Fires","Bohol",0.0707239556149927
+"Dar","BFL_partial","Renal Failure","Bohol",0.0509281697013428
+"Dar","BFL_partial","AIDS","Bohol",0
+"Dar","BFL_partial","Lung Cancer","Bohol",0.203540992245478
+"Dar","BFL_partial","Maternal","Bohol",0.0134045972038764
+"Dar","BFL_partial","Drowning","Bohol",0.00655172058257901
+"Dar","BFL_partial","Other Cardiovascular Diseases","Bohol",0.0260321674762171
+"Dar","BFL_partial","Other Non-communicable Diseases","Bohol",0.00774291619570788
+"Dar","BFL_partial","Falls","Bohol",0.0780363415318883
+"Dar","BFL_partial","Stroke","Bohol",0.130775200075881
+"Dar","BFL_partial","Road Traffic","Bohol",0.652073240840183
+"Dar","BFL_partial","Bite of Venomous Animal","Bohol",0.241572236813648
+"Dar","BFL_partial","Diabetes","Bohol",0.0271219969034132
+"Dar","BFL_partial","Other Infectious Diseases","Bohol",0.066953326632363
+"Dar","BFL_partial","TB","Bohol",0.0291524439298209
+"Dar","BFL_partial","Suicide","Bohol",0.0280749883206753
+"Dar","BFL_partial","Other Injuries","Bohol",0.127617833641329
+"Dar","BFL_partial","Cervical Cancer","Bohol",0.0135072193053538
+"Dar","BFL_partial","Malaria","Bohol",0
+"Dar","BFL_partial","Asthma","Bohol",0.160581692358945
+"Dar","BFL_partial","Diarrhea/Dysentery","Bohol",0.0446005989643795
+"Dar","BFL_partial","Colorectal Cancer","Bohol",0.0136431978175905
+"Dar","BFL_partial","Homicide","Bohol",0.163384538370156
+"Dar","BFL_partial","Breast Cancer","Bohol",0.12044800987682
+"Dar","BFL_partial","Leukemia/Lymphomas","Bohol",0.0994915324484778
+"Dar","BFL_partial","Poisonings","Bohol",0.0965503050558406
+"Dar","BFL_partial","Prostate Cancer","Bohol",0.124217045886246
+"Dar","BFL_partial","Esophageal Cancer","Bohol",0.858020310437667
+"Dar","BFL_partial","Stomach Cancer","Bohol",0.076414030921485
+"Dar","BFL_partial","Cirrhosis","Pemba",0
+"Dar","BFL_partial","Epilepsy","Pemba",0
+"Dar","BFL_partial","Pneumonia","Pemba",0.386882440905222
+"Dar","BFL_partial","COPD","Pemba",0
+"Dar","BFL_partial","Acute Myocardial Infarction","Pemba",0
+"Dar","BFL_partial","Fires","Pemba",0.0427537842597714
+"Dar","BFL_partial","Renal Failure","Pemba",0
+"Dar","BFL_partial","AIDS","Pemba",0
+"Dar","BFL_partial","Lung Cancer","Pemba",0
+"Dar","BFL_partial","Maternal","Pemba",0.435005878663706
+"Dar","BFL_partial","Drowning","Pemba",0.674944290493677
+"Dar","BFL_partial","Other Cardiovascular Diseases","Pemba",0
+"Dar","BFL_partial","Other Non-communicable Diseases","Pemba",0.510814972499435
+"Dar","BFL_partial","Falls","Pemba",0.611144750896102
+"Dar","BFL_partial","Stroke","Pemba",0
+"Dar","BFL_partial","Road Traffic","Pemba",0.00560462655278844
+"Dar","BFL_partial","Bite of Venomous Animal","Pemba",0
+"Dar","BFL_partial","Diabetes","Pemba",0.80969588521562
+"Dar","BFL_partial","Other Infectious Diseases","Pemba",0.0266555257971242
+"Dar","BFL_partial","TB","Pemba",0.0150320646443632
+"Dar","BFL_partial","Suicide","Pemba",0.027581880949674
+"Dar","BFL_partial","Other Injuries","Pemba",0.126451101112377
+"Dar","BFL_partial","Cervical Cancer","Pemba",0
+"Dar","BFL_partial","Malaria","Pemba",0.0878595967361802
+"Dar","BFL_partial","Asthma","Pemba",0.164453443162059
+"Dar","BFL_partial","Diarrhea/Dysentery","Pemba",0.512160832854403
+"Dar","BFL_partial","Colorectal Cancer","Pemba",0
+"Dar","BFL_partial","Homicide","Pemba",0.0899175301345422
+"Dar","BFL_partial","Breast Cancer","Pemba",0
+"Dar","BFL_partial","Leukemia/Lymphomas","Pemba",0
+"Dar","BFL_partial","Poisonings","Pemba",0.0996187430441276
+"Dar","BFL_partial","Prostate Cancer","Pemba",0
+"Dar","BFL_partial","Esophageal Cancer","Pemba",0
+"Dar","BFL_partial","Stomach Cancer","Pemba",0
+"Dar","BFL_partial","Cirrhosis","UP",0.0992707725240087
+"Dar","BFL_partial","Epilepsy","UP",0.181239293807387
+"Dar","BFL_partial","Pneumonia","UP",0.0286882349645521
+"Dar","BFL_partial","COPD","UP",0.318705104739936
+"Dar","BFL_partial","Acute Myocardial Infarction","UP",0.094603492561253
+"Dar","BFL_partial","Fires","UP",0.0513717565371671
+"Dar","BFL_partial","Renal Failure","UP",0.25670247725944
+"Dar","BFL_partial","AIDS","UP",0.00720038281354384
+"Dar","BFL_partial","Lung Cancer","UP",0.0948999166547233
+"Dar","BFL_partial","Maternal","UP",0.0311103270073503
+"Dar","BFL_partial","Drowning","UP",0.0111482906034084
+"Dar","BFL_partial","Other Cardiovascular Diseases","UP",0.175542227096348
+"Dar","BFL_partial","Other Non-communicable Diseases","UP",0.0115087072756933
+"Dar","BFL_partial","Falls","UP",0.107875470505395
+"Dar","BFL_partial","Stroke","UP",0.295908056671336
+"Dar","BFL_partial","Road Traffic","UP",0.00871962070457427
+"Dar","BFL_partial","Bite of Venomous Animal","UP",0.247836354471522
+"Dar","BFL_partial","Diabetes","UP",0.0291182788898545
+"Dar","BFL_partial","Other Infectious Diseases","UP",0.844536120222505
+"Dar","BFL_partial","TB","UP",0.212674951296723
+"Dar","BFL_partial","Suicide","UP",0.0690210930842175
+"Dar","BFL_partial","Other Injuries","UP",0.35077151232282
+"Dar","BFL_partial","Cervical Cancer","UP",0.0131874823989006
+"Dar","BFL_partial","Malaria","UP",0.360598370067954
+"Dar","BFL_partial","Asthma","UP",0.16388523579284
+"Dar","BFL_partial","Diarrhea/Dysentery","UP",0.105212910739705
+"Dar","BFL_partial","Colorectal Cancer","UP",0
+"Dar","BFL_partial","Homicide","UP",0.463247534906583
+"Dar","BFL_partial","Breast Cancer","UP",0.0135411560857596
+"Dar","BFL_partial","Leukemia/Lymphomas","UP",0.0508039394433476
+"Dar","BFL_partial","Poisonings","UP",0.598258767496476
+"Dar","BFL_partial","Prostate Cancer","UP",0
+"Dar","BFL_partial","Esophageal Cancer","UP",0
+"Dar","BFL_partial","Stomach Cancer","UP",0
+"Dar","BFL_domain","Cirrhosis","Mexico",0.627418142101634
+"Dar","BFL_domain","Epilepsy","Mexico",0.191374242015918
+"Dar","BFL_domain","Pneumonia","Mexico",0.524184676529626
+"Dar","BFL_domain","COPD","Mexico",0.215238021979307
+"Dar","BFL_domain","Acute Myocardial Infarction","Mexico",0.338023182112734
+"Dar","BFL_domain","Fires","Mexico",0.160640393218607
+"Dar","BFL_domain","Renal Failure","Mexico",0.259705818118776
+"Dar","BFL_domain","AIDS","Mexico",0.0666835945267892
+"Dar","BFL_domain","Lung Cancer","Mexico",0.239495100927192
+"Dar","BFL_domain","Maternal","Mexico",0.0278307785917961
+"Dar","BFL_domain","Drowning","Mexico",0
+"Dar","BFL_domain","Other Cardiovascular Diseases","Mexico",0.039902106698269
+"Dar","BFL_domain","Other Non-communicable Diseases","Mexico",0.018653697497785
+"Dar","BFL_domain","Falls","Mexico",0.171535714420927
+"Dar","BFL_domain","Stroke","Mexico",0.116845865130894
+"Dar","BFL_domain","Road Traffic","Mexico",0.0196961919618939
+"Dar","BFL_domain","Bite of Venomous Animal","Mexico",0.239587031685223
+"Dar","BFL_domain","Diabetes","Mexico",0.201150577423021
+"Dar","BFL_domain","Other Infectious Diseases","Mexico",0.101542852854511
+"Dar","BFL_domain","TB","Mexico",0.0215413098663583
+"Dar","BFL_domain","Suicide","Mexico",0.137766986867472
+"Dar","BFL_domain","Other Injuries","Mexico",0.161996959513696
+"Dar","BFL_domain","Cervical Cancer","Mexico",0.0175555472864232
+"Dar","BFL_domain","Malaria","Mexico",0
+"Dar","BFL_domain","Asthma","Mexico",0.167567782936437
+"Dar","BFL_domain","Diarrhea/Dysentery","Mexico",0.12539971701697
+"Dar","BFL_domain","Colorectal Cancer","Mexico",0.791156489598582
+"Dar","BFL_domain","Homicide","Mexico",0.15465609993983
+"Dar","BFL_domain","Breast Cancer","Mexico",0.0785353448125618
+"Dar","BFL_domain","Leukemia/Lymphomas","Mexico",0.231166251893827
+"Dar","BFL_domain","Poisonings","Mexico",0.164855141789256
+"Dar","BFL_domain","Prostate Cancer","Mexico",0.247330478068504
+"Dar","BFL_domain","Esophageal Cancer","Mexico",0
+"Dar","BFL_domain","Stomach Cancer","Mexico",0.396990473738995
+"Dar","BFL_domain","Cirrhosis","AP",0.132824731759112
+"Dar","BFL_domain","Epilepsy","AP",0.230016730355876
+"Dar","BFL_domain","Pneumonia","AP",0.0351440404876699
+"Dar","BFL_domain","COPD","AP",0.228760723509674
+"Dar","BFL_domain","Acute Myocardial Infarction","AP",0.279076801298849
+"Dar","BFL_domain","Fires","AP",0.167902419957601
+"Dar","BFL_domain","Renal Failure","AP",0.184141376349025
+"Dar","BFL_domain","AIDS","AP",0.00422218041591692
+"Dar","BFL_domain","Lung Cancer","AP",0.161801912587843
+"Dar","BFL_domain","Maternal","AP",0.00836426369442771
+"Dar","BFL_domain","Drowning","AP",0.488910669273075
+"Dar","BFL_domain","Other Cardiovascular Diseases","AP",0.0372671105026792
+"Dar","BFL_domain","Other Non-communicable Diseases","AP",0.00386499571533792
+"Dar","BFL_domain","Falls","AP",0.156469556275597
+"Dar","BFL_domain","Stroke","AP",0.0731717120580511
+"Dar","BFL_domain","Road Traffic","AP",0.345893115174993
+"Dar","BFL_domain","Bite of Venomous Animal","AP",0.269076124036527
+"Dar","BFL_domain","Diabetes","AP",0.0557420929366066
+"Dar","BFL_domain","Other Infectious Diseases","AP",0.101655678740938
+"Dar","BFL_domain","TB","AP",0.0214990947032809
+"Dar","BFL_domain","Suicide","AP",0.289642494287007
+"Dar","BFL_domain","Other Injuries","AP",0.173516756333225
+"Dar","BFL_domain","Cervical Cancer","AP",0.00824618498295745
+"Dar","BFL_domain","Malaria","AP",0.249439005499537
+"Dar","BFL_domain","Asthma","AP",0.172632651158298
+"Dar","BFL_domain","Diarrhea/Dysentery","AP",0.124937453369568
+"Dar","BFL_domain","Colorectal Cancer","AP",0.0688934039529026
+"Dar","BFL_domain","Homicide","AP",0.17532657459943
+"Dar","BFL_domain","Breast Cancer","AP",0.0153540066859056
+"Dar","BFL_domain","Leukemia/Lymphomas","AP",0.184353637137307
+"Dar","BFL_domain","Poisonings","AP",0.166910520511209
+"Dar","BFL_domain","Prostate Cancer","AP",0.25285062728265
+"Dar","BFL_domain","Esophageal Cancer","AP",0.335544574789906
+"Dar","BFL_domain","Stomach Cancer","AP",0.200385881723134
+"Dar","BFL_domain","Cirrhosis","Bohol",0.0834833587767769
+"Dar","BFL_domain","Epilepsy","Bohol",0.193134599577483
+"Dar","BFL_domain","Pneumonia","Bohol",0.101011275368992
+"Dar","BFL_domain","COPD","Bohol",0.183661844837762
+"Dar","BFL_domain","Acute Myocardial Infarction","Bohol",0.180840120468456
+"Dar","BFL_domain","Fires","Bohol",0.158236138661838
+"Dar","BFL_domain","Renal Failure","Bohol",0.177607523916488
+"Dar","BFL_domain","AIDS","Bohol",0
+"Dar","BFL_domain","Lung Cancer","Bohol",0.272749355030123
+"Dar","BFL_domain","Maternal","Bohol",0.0070119268178015
+"Dar","BFL_domain","Drowning","Bohol",0.00832894165004677
+"Dar","BFL_domain","Other Cardiovascular Diseases","Bohol",0.037663083810288
+"Dar","BFL_domain","Other Non-communicable Diseases","Bohol",0.00431192609625518
+"Dar","BFL_domain","Falls","Bohol",0.153948086751188
+"Dar","BFL_domain","Stroke","Bohol",0.0523280594200966
+"Dar","BFL_domain","Road Traffic","Bohol",0.606812314183976
+"Dar","BFL_domain","Bite of Venomous Animal","Bohol",0.239294766008657
+"Dar","BFL_domain","Diabetes","Bohol",0.0694910016944399
+"Dar","BFL_domain","Other Infectious Diseases","Bohol",0.121790413797455
+"Dar","BFL_domain","TB","Bohol",0.0225570868627492
+"Dar","BFL_domain","Suicide","Bohol",0.137139438292671
+"Dar","BFL_domain","Other Injuries","Bohol",0.163991997216393
+"Dar","BFL_domain","Cervical Cancer","Bohol",0.00833020240826059
+"Dar","BFL_domain","Malaria","Bohol",0
+"Dar","BFL_domain","Asthma","Bohol",0.16412390708676
+"Dar","BFL_domain","Diarrhea/Dysentery","Bohol",0.120855357226165
+"Dar","BFL_domain","Colorectal Cancer","Bohol",0.0706553127349912
+"Dar","BFL_domain","Homicide","Bohol",0.192670907820958
+"Dar","BFL_domain","Breast Cancer","Bohol",0.0217515316743577
+"Dar","BFL_domain","Leukemia/Lymphomas","Bohol",0.188114864300294
+"Dar","BFL_domain","Poisonings","Bohol",0.165824063945818
+"Dar","BFL_domain","Prostate Cancer","Bohol",0.250748519967361
+"Dar","BFL_domain","Esophageal Cancer","Bohol",0.330876950134558
+"Dar","BFL_domain","Stomach Cancer","Bohol",0.199266446482363
+"Dar","BFL_domain","Cirrhosis","Pemba",0
+"Dar","BFL_domain","Epilepsy","Pemba",0
+"Dar","BFL_domain","Pneumonia","Pemba",0.238302819692862
+"Dar","BFL_domain","COPD","Pemba",0
+"Dar","BFL_domain","Acute Myocardial Infarction","Pemba",0
+"Dar","BFL_domain","Fires","Pemba",0.154254447318319
+"Dar","BFL_domain","Renal Failure","Pemba",0
+"Dar","BFL_domain","AIDS","Pemba",0
+"Dar","BFL_domain","Lung Cancer","Pemba",0
+"Dar","BFL_domain","Maternal","Pemba",0.113930859092717
+"Dar","BFL_domain","Drowning","Pemba",0.478568403530773
+"Dar","BFL_domain","Other Cardiovascular Diseases","Pemba",0
+"Dar","BFL_domain","Other Non-communicable Diseases","Pemba",0.0248679231877037
+"Dar","BFL_domain","Falls","Pemba",0.177098255095555
+"Dar","BFL_domain","Stroke","Pemba",0
+"Dar","BFL_domain","Road Traffic","Pemba",0.00692755850944682
+"Dar","BFL_domain","Bite of Venomous Animal","Pemba",0
+"Dar","BFL_domain","Diabetes","Pemba",0.146997129361296
+"Dar","BFL_domain","Other Infectious Diseases","Pemba",0.0992144119739437
+"Dar","BFL_domain","TB","Pemba",0.0205297604091898
+"Dar","BFL_domain","Suicide","Pemba",0.138342779424712
+"Dar","BFL_domain","Other Injuries","Pemba",0.161178642549833
+"Dar","BFL_domain","Cervical Cancer","Pemba",0
+"Dar","BFL_domain","Malaria","Pemba",0.239961331712929
+"Dar","BFL_domain","Asthma","Pemba",0.16654639959402
+"Dar","BFL_domain","Diarrhea/Dysentery","Pemba",0.301974310933717
+"Dar","BFL_domain","Colorectal Cancer","Pemba",0
+"Dar","BFL_domain","Homicide","Pemba",0.153948676517992
+"Dar","BFL_domain","Breast Cancer","Pemba",0
+"Dar","BFL_domain","Leukemia/Lymphomas","Pemba",0
+"Dar","BFL_domain","Poisonings","Pemba",0.164599068497601
+"Dar","BFL_domain","Prostate Cancer","Pemba",0
+"Dar","BFL_domain","Esophageal Cancer","Pemba",0
+"Dar","BFL_domain","Stomach Cancer","Pemba",0
+"Dar","BFL_domain","Cirrhosis","UP",0.0782141614500836
+"Dar","BFL_domain","Epilepsy","UP",0.192954852599801
+"Dar","BFL_domain","Pneumonia","UP",0.0428021257991166
+"Dar","BFL_domain","COPD","UP",0.189072684376977
+"Dar","BFL_domain","Acute Myocardial Infarction","UP",0.136885559142612
+"Dar","BFL_domain","Fires","UP",0.161996052980475
+"Dar","BFL_domain","Renal Failure","UP",0.18622968848998
+"Dar","BFL_domain","AIDS","UP",0.00392856848134387
+"Dar","BFL_domain","Lung Cancer","UP",0.163627523501827
+"Dar","BFL_domain","Maternal","UP",0.00681790251244739
+"Dar","BFL_domain","Drowning","UP",0.0159814789923286
+"Dar","BFL_domain","Other Cardiovascular Diseases","UP",0.0469630405951982
+"Dar","BFL_domain","Other Non-communicable Diseases","UP",0.0040846491303082
+"Dar","BFL_domain","Falls","UP",0.190795544316665
+"Dar","BFL_domain","Stroke","UP",0.0734298391533506
+"Dar","BFL_domain","Road Traffic","UP",0.0141582458163286
+"Dar","BFL_domain","Bite of Venomous Animal","UP",0.252042078269593
+"Dar","BFL_domain","Diabetes","UP",0.0534337865168363
+"Dar","BFL_domain","Other Infectious Diseases","UP",0.459990781250566
+"Dar","BFL_domain","TB","UP",0.0211603622189436
+"Dar","BFL_domain","Suicide","UP",0.159854260787848
+"Dar","BFL_domain","Other Injuries","UP",0.171763833606056
+"Dar","BFL_domain","Cervical Cancer","UP",0.00804256560039045
+"Dar","BFL_domain","Malaria","UP",0.260943153311951
+"Dar","BFL_domain","Asthma","UP",0.166618856183277
+"Dar","BFL_domain","Diarrhea/Dysentery","UP",0.129337705246654
+"Dar","BFL_domain","Colorectal Cancer","UP",0
+"Dar","BFL_domain","Homicide","UP",0.172807156198947
+"Dar","BFL_domain","Breast Cancer","UP",0.0151637103122789
+"Dar","BFL_domain","Leukemia/Lymphomas","UP",0.18508196090196
+"Dar","BFL_domain","Poisonings","UP",0.175968469176141
+"Dar","BFL_domain","Prostate Cancer","UP",0
+"Dar","BFL_domain","Esophageal Cancer","UP",0
+"Dar","BFL_domain","Stomach Cancer","UP",0
+"Dar","BFL_domain","Cirrhosis","Dar",0.0780596059123931
+"Dar","BFL_domain","Epilepsy","Dar",0.192519575450922
+"Dar","BFL_domain","Pneumonia","Dar",0.0585550621217339
+"Dar","BFL_domain","COPD","Dar",0.183266725296279
+"Dar","BFL_domain","Acute Myocardial Infarction","Dar",0.0651743369773489
+"Dar","BFL_domain","Fires","Dar",0.19697054786316
+"Dar","BFL_domain","Renal Failure","Dar",0.192315593125732
+"Dar","BFL_domain","AIDS","Dar",0.92516565657595
+"Dar","BFL_domain","Lung Cancer","Dar",0.162326107953016
+"Dar","BFL_domain","Maternal","Dar",0.836044269290811
+"Dar","BFL_domain","Drowning","Dar",0.00821050655377667
+"Dar","BFL_domain","Other Cardiovascular Diseases","Dar",0.838204658393566
+"Dar","BFL_domain","Other Non-communicable Diseases","Dar",0.94421680837261
+"Dar","BFL_domain","Falls","Dar",0.150152843140067
+"Dar","BFL_domain","Stroke","Dar",0.684224524237608
+"Dar","BFL_domain","Road Traffic","Dar",0.00651257435336175
+"Dar","BFL_domain","Bite of Venomous Animal","Dar",0
+"Dar","BFL_domain","Diabetes","Dar",0.4731854120678
+"Dar","BFL_domain","Other Infectious Diseases","Dar",0.115805861382587
+"Dar","BFL_domain","TB","Dar",0.892712385939478
+"Dar","BFL_domain","Suicide","Dar",0.13725404034029
+"Dar","BFL_domain","Other Injuries","Dar",0.167551810780796
+"Dar","BFL_domain","Cervical Cancer","Dar",0.957825499721968
+"Dar","BFL_domain","Malaria","Dar",0.249656509475583
+"Dar","BFL_domain","Asthma","Dar",0.162510403041208
+"Dar","BFL_domain","Diarrhea/Dysentery","Dar",0.197495456206926
+"Dar","BFL_domain","Colorectal Cancer","Dar",0.069294793713524
+"Dar","BFL_domain","Homicide","Dar",0.150590584922843
+"Dar","BFL_domain","Breast Cancer","Dar",0.869195406514896
+"Dar","BFL_domain","Leukemia/Lymphomas","Dar",0.211283285766613
+"Dar","BFL_domain","Poisonings","Dar",0.161842736079975
+"Dar","BFL_domain","Prostate Cancer","Dar",0.249070374681485
+"Dar","BFL_domain","Esophageal Cancer","Dar",0.333578475075537
+"Dar","BFL_domain","Stomach Cancer","Dar",0.203357198055509
+"Dar","BFL_mix","Cirrhosis","Mexico",0.68354065743062
+"Dar","BFL_mix","Epilepsy","Mexico",0.195218962619476
+"Dar","BFL_mix","Pneumonia","Mexico",0.474791974799809
+"Dar","BFL_mix","COPD","Mexico",0.206255627212737
+"Dar","BFL_mix","Acute Myocardial Infarction","Mexico",0.378664056702059
+"Dar","BFL_mix","Fires","Mexico",0.133057606425833
+"Dar","BFL_mix","Renal Failure","Mexico",0.335968175683503
+"Dar","BFL_mix","AIDS","Mexico",0.110787557473495
+"Dar","BFL_mix","Lung Cancer","Mexico",0.3811801635535
+"Dar","BFL_mix","Maternal","Mexico",0.125081171735953
+"Dar","BFL_mix","Drowning","Mexico",0
+"Dar","BFL_mix","Other Cardiovascular Diseases","Mexico",0.358737853243236
+"Dar","BFL_mix","Other Non-communicable Diseases","Mexico",0.0340469869790609
+"Dar","BFL_mix","Falls","Mexico",0.150416247815069
+"Dar","BFL_mix","Stroke","Mexico",0.308391416701738
+"Dar","BFL_mix","Road Traffic","Mexico",0.00981561711396646
+"Dar","BFL_mix","Bite of Venomous Animal","Mexico",0.244743145238094
+"Dar","BFL_mix","Diabetes","Mexico",0.136204407207409
+"Dar","BFL_mix","Other Infectious Diseases","Mexico",0.0420711017714945
+"Dar","BFL_mix","TB","Mexico",0.0222301050486071
+"Dar","BFL_mix","Suicide","Mexico",0.0525788065477784
+"Dar","BFL_mix","Other Injuries","Mexico",0.134915290584714
+"Dar","BFL_mix","Cervical Cancer","Mexico",0.058583462399398
+"Dar","BFL_mix","Malaria","Mexico",0
+"Dar","BFL_mix","Asthma","Mexico",0.165323850142935
+"Dar","BFL_mix","Diarrhea/Dysentery","Mexico",0.0730892255920743
+"Dar","BFL_mix","Colorectal Cancer","Mexico",0.907977555290149
+"Dar","BFL_mix","Homicide","Mexico",0.110225427487194
+"Dar","BFL_mix","Breast Cancer","Mexico",0.662445107797759
+"Dar","BFL_mix","Leukemia/Lymphomas","Mexico",0.5804182388018
+"Dar","BFL_mix","Poisonings","Mexico",0.130636454787062
+"Dar","BFL_mix","Prostate Cancer","Mexico",0.568980264885322
+"Dar","BFL_mix","Esophageal Cancer","Mexico",0
+"Dar","BFL_mix","Stomach Cancer","Mexico",0.66575003480713
+"Dar","BFL_mix","Cirrhosis","AP",0.103062798174784
+"Dar","BFL_mix","Epilepsy","AP",0.223170347490189
+"Dar","BFL_mix","Pneumonia","AP",0.0459568394636185
+"Dar","BFL_mix","COPD","AP",0.223596025205043
+"Dar","BFL_mix","Acute Myocardial Infarction","AP",0.317246061262691
+"Dar","BFL_mix","Fires","AP",0.513877289346168
+"Dar","BFL_mix","Renal Failure","AP",0.19403947830656
+"Dar","BFL_mix","AIDS","AP",0.0113469214193472
+"Dar","BFL_mix","Lung Cancer","AP",0.123304729312528
+"Dar","BFL_mix","Maternal","AP",0.00919458564509895
+"Dar","BFL_mix","Drowning","AP",0.376991523291045
+"Dar","BFL_mix","Other Cardiovascular Diseases","AP",0.0517702257053499
+"Dar","BFL_mix","Other Non-communicable Diseases","AP",0.0110622086082548
+"Dar","BFL_mix","Falls","AP",0.12158426700137
+"Dar","BFL_mix","Stroke","AP",0.205296975850478
+"Dar","BFL_mix","Road Traffic","AP",0.313274225603562
+"Dar","BFL_mix","Bite of Venomous Animal","AP",0.266846330624058
+"Dar","BFL_mix","Diabetes","AP",0.0617616570951828
+"Dar","BFL_mix","Other Infectious Diseases","AP",0.0436221060875328
+"Dar","BFL_mix","TB","AP",0.0377684389384456
+"Dar","BFL_mix","Suicide","AP",0.709630967426338
+"Dar","BFL_mix","Other Injuries","AP",0.278120651259196
+"Dar","BFL_mix","Cervical Cancer","AP",0.0108459724662726
+"Dar","BFL_mix","Malaria","AP",0.436719028876846
+"Dar","BFL_mix","Asthma","AP",0.169680327995242
+"Dar","BFL_mix","Diarrhea/Dysentery","AP",0.125075564400526
+"Dar","BFL_mix","Colorectal Cancer","AP",0.030303858879287
+"Dar","BFL_mix","Homicide","AP",0.196019938991496
+"Dar","BFL_mix","Breast Cancer","AP",0.0171284789362171
+"Dar","BFL_mix","Leukemia/Lymphomas","AP",0.0704092196532098
+"Dar","BFL_mix","Poisonings","AP",0.137956808520913
+"Dar","BFL_mix","Prostate Cancer","AP",0.140771651046288
+"Dar","BFL_mix","Esophageal Cancer","AP",0.166749161831367
+"Dar","BFL_mix","Stomach Cancer","AP",0.114152360138805
+"Dar","BFL_mix","Cirrhosis","Bohol",0.0731333945400143
+"Dar","BFL_mix","Epilepsy","Bohol",0.193920475971128
+"Dar","BFL_mix","Pneumonia","Bohol",0.0675890328276759
+"Dar","BFL_mix","COPD","Bohol",0.188021908174884
+"Dar","BFL_mix","Acute Myocardial Infarction","Bohol",0.111638848221694
+"Dar","BFL_mix","Fires","Bohol",0.123497973409078
+"Dar","BFL_mix","Renal Failure","Bohol",0.072374691886744
+"Dar","BFL_mix","AIDS","Bohol",0
+"Dar","BFL_mix","Lung Cancer","Bohol",0.219935371993777
+"Dar","BFL_mix","Maternal","Bohol",0.0159498143267827
+"Dar","BFL_mix","Drowning","Bohol",0.00714797399100008
+"Dar","BFL_mix","Other Cardiovascular Diseases","Bohol",0.0438354818982247
+"Dar","BFL_mix","Other Non-communicable Diseases","Bohol",0.00493069813679141
+"Dar","BFL_mix","Falls","Bohol",0.117296797648372
+"Dar","BFL_mix","Stroke","Bohol",0.144413610558672
+"Dar","BFL_mix","Road Traffic","Bohol",0.658075479225865
+"Dar","BFL_mix","Bite of Venomous Animal","Bohol",0.240408161388811
+"Dar","BFL_mix","Diabetes","Bohol",0.0423309138478987
+"Dar","BFL_mix","Other Infectious Diseases","Bohol",0.068686973492899
+"Dar","BFL_mix","TB","Bohol",0.0231092511302222
+"Dar","BFL_mix","Suicide","Bohol",0.0542859140924006
+"Dar","BFL_mix","Other Injuries","Bohol",0.137649931044939
+"Dar","BFL_mix","Cervical Cancer","Bohol",0.0114390720479487
+"Dar","BFL_mix","Malaria","Bohol",0
+"Dar","BFL_mix","Asthma","Bohol",0.160663861849085
+"Dar","BFL_mix","Diarrhea/Dysentery","Bohol",0.064487414890858
+"Dar","BFL_mix","Colorectal Cancer","Bohol",0.0316534307080317
+"Dar","BFL_mix","Homicide","Bohol",0.156200671244985
+"Dar","BFL_mix","Breast Cancer","Bohol",0.0625705809059005
+"Dar","BFL_mix","Leukemia/Lymphomas","Bohol",0.0807504570858221
+"Dar","BFL_mix","Poisonings","Bohol",0.128683792750775
+"Dar","BFL_mix","Prostate Cancer","Bohol",0.147014800008872
+"Dar","BFL_mix","Esophageal Cancer","Bohol",0.666626440524911
+"Dar","BFL_mix","Stomach Cancer","Bohol",0.110244050033027
+"Dar","BFL_mix","Cirrhosis","Pemba",0
+"Dar","BFL_mix","Epilepsy","Pemba",0
+"Dar","BFL_mix","Pneumonia","Pemba",0.355449659138212
+"Dar","BFL_mix","COPD","Pemba",0
+"Dar","BFL_mix","Acute Myocardial Infarction","Pemba",0
+"Dar","BFL_mix","Fires","Pemba",0.0746107344723378
+"Dar","BFL_mix","Renal Failure","Pemba",0
+"Dar","BFL_mix","AIDS","Pemba",0
+"Dar","BFL_mix","Lung Cancer","Pemba",0
+"Dar","BFL_mix","Maternal","Pemba",0.25612869957395
+"Dar","BFL_mix","Drowning","Pemba",0.595592565980513
+"Dar","BFL_mix","Other Cardiovascular Diseases","Pemba",0
+"Dar","BFL_mix","Other Non-communicable Diseases","Pemba",0.138985501624462
+"Dar","BFL_mix","Falls","Pemba",0.343127726675681
+"Dar","BFL_mix","Stroke","Pemba",0
+"Dar","BFL_mix","Road Traffic","Pemba",0.00522460486471201
+"Dar","BFL_mix","Bite of Venomous Animal","Pemba",0
+"Dar","BFL_mix","Diabetes","Pemba",0.629664610142287
+"Dar","BFL_mix","Other Infectious Diseases","Pemba",0.037167450356678
+"Dar","BFL_mix","TB","Pemba",0.022208585708826
+"Dar","BFL_mix","Suicide","Pemba",0.050557802232147
+"Dar","BFL_mix","Other Injuries","Pemba",0.134313539621207
+"Dar","BFL_mix","Cervical Cancer","Pemba",0
+"Dar","BFL_mix","Malaria","Pemba",0.121083724700982
+"Dar","BFL_mix","Asthma","Pemba",0.168632405054379
+"Dar","BFL_mix","Diarrhea/Dysentery","Pemba",0.432518006472596
+"Dar","BFL_mix","Colorectal Cancer","Pemba",0
+"Dar","BFL_mix","Homicide","Pemba",0.101596725540428
+"Dar","BFL_mix","Breast Cancer","Pemba",0
+"Dar","BFL_mix","Leukemia/Lymphomas","Pemba",0
+"Dar","BFL_mix","Poisonings","Pemba",0.128446477281289
+"Dar","BFL_mix","Prostate Cancer","Pemba",0
+"Dar","BFL_mix","Esophageal Cancer","Pemba",0
+"Dar","BFL_mix","Stomach Cancer","Pemba",0
+"Dar","BFL_mix","Cirrhosis","UP",0.0715990013524244
+"Dar","BFL_mix","Epilepsy","UP",0.195044761364102
+"Dar","BFL_mix","Pneumonia","UP",0.0312667060233181
+"Dar","BFL_mix","COPD","UP",0.194071851475481
+"Dar","BFL_mix","Acute Myocardial Infarction","UP",0.154208919691367
+"Dar","BFL_mix","Fires","UP",0.0818233572655449
+"Dar","BFL_mix","Renal Failure","UP",0.329427351394931
+"Dar","BFL_mix","AIDS","UP",0.00424806242113863
+"Dar","BFL_mix","Lung Cancer","UP",0.156784293804225
+"Dar","BFL_mix","Maternal","UP",0.011145566969894
+"Dar","BFL_mix","Drowning","UP",0.013200015618208
+"Dar","BFL_mix","Other Cardiovascular Diseases","UP",0.082776789936446
+"Dar","BFL_mix","Other Non-communicable Diseases","UP",0.00377032519875387
+"Dar","BFL_mix","Falls","UP",0.157764181038113
+"Dar","BFL_mix","Stroke","UP",0.237726053784005
+"Dar","BFL_mix","Road Traffic","UP",0.00895812355122454
+"Dar","BFL_mix","Bite of Venomous Animal","UP",0.248002362749038
+"Dar","BFL_mix","Diabetes","UP",0.0516512870528561
+"Dar","BFL_mix","Other Infectious Diseases","UP",0.769799052053647
+"Dar","BFL_mix","TB","UP",0.0257805593965693
+"Dar","BFL_mix","Suicide","UP",0.0813767680218112
+"Dar","BFL_mix","Other Injuries","UP",0.180087031753639
+"Dar","BFL_mix","Cervical Cancer","UP",0.0108538166579908
+"Dar","BFL_mix","Malaria","UP",0.324784787709987
+"Dar","BFL_mix","Asthma","UP",0.169208815378689
+"Dar","BFL_mix","Diarrhea/Dysentery","UP",0.161016161944929
+"Dar","BFL_mix","Colorectal Cancer","UP",0
+"Dar","BFL_mix","Homicide","UP",0.332590341011231
+"Dar","BFL_mix","Breast Cancer","UP",0.0173829395665943
+"Dar","BFL_mix","Leukemia/Lymphomas","UP",0.0714275075683528
+"Dar","BFL_mix","Poisonings","UP",0.345367921634569
+"Dar","BFL_mix","Prostate Cancer","UP",0
+"Dar","BFL_mix","Esophageal Cancer","UP",0
+"Dar","BFL_mix","Stomach Cancer","UP",0
+"Dar","BFL_mix","Cirrhosis","Dar",0.0686641485021579
+"Dar","BFL_mix","Epilepsy","Dar",0.192645452555106
+"Dar","BFL_mix","Pneumonia","Dar",0.0249457877473669
+"Dar","BFL_mix","COPD","Dar",0.188054587931855
+"Dar","BFL_mix","Acute Myocardial Infarction","Dar",0.0382421141221893
+"Dar","BFL_mix","Fires","Dar",0.0731330390810385
+"Dar","BFL_mix","Renal Failure","Dar",0.0681903027282624
+"Dar","BFL_mix","AIDS","Dar",0.87361745868602
+"Dar","BFL_mix","Lung Cancer","Dar",0.11879544133597
+"Dar","BFL_mix","Maternal","Dar",0.582500161748321
+"Dar","BFL_mix","Drowning","Dar",0.00706792111923452
+"Dar","BFL_mix","Other Cardiovascular Diseases","Dar",0.462879649216743
+"Dar","BFL_mix","Other Non-communicable Diseases","Dar",0.807204279452677
+"Dar","BFL_mix","Falls","Dar",0.109810779821396
+"Dar","BFL_mix","Stroke","Dar",0.104171943105106
+"Dar","BFL_mix","Road Traffic","Dar",0.00465194964067038
+"Dar","BFL_mix","Bite of Venomous Animal","Dar",0
+"Dar","BFL_mix","Diabetes","Dar",0.0783871246543669
+"Dar","BFL_mix","Other Infectious Diseases","Dar",0.0386533162377488
+"Dar","BFL_mix","TB","Dar",0.86890305977733
+"Dar","BFL_mix","Suicide","Dar",0.0515697416795252
+"Dar","BFL_mix","Other Injuries","Dar",0.134913555736305
+"Dar","BFL_mix","Cervical Cancer","Dar",0.90827767642839
+"Dar","BFL_mix","Malaria","Dar",0.117412458712185
+"Dar","BFL_mix","Asthma","Dar",0.166490739579669
+"Dar","BFL_mix","Diarrhea/Dysentery","Dar",0.143813626699017
+"Dar","BFL_mix","Colorectal Cancer","Dar",0.0300651551225321
+"Dar","BFL_mix","Homicide","Dar",0.103366895724666
+"Dar","BFL_mix","Breast Cancer","Dar",0.24047289279353
+"Dar","BFL_mix","Leukemia/Lymphomas","Dar",0.196994576890816
+"Dar","BFL_mix","Poisonings","Dar",0.128908545025392
+"Dar","BFL_mix","Prostate Cancer","Dar",0.143233284059519
+"Dar","BFL_mix","Esophageal Cancer","Dar",0.166624397643722
+"Dar","BFL_mix","Stomach Cancer","Dar",0.109853555021039
